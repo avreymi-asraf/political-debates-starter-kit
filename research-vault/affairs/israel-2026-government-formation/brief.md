@@ -122,4 +122,5 @@ As of **November 18, 2026** (Day 10 of Eisenkot's 28-day mandate), institutional
 
 ## Cross-Affair Linkages
 
-- *None registered yet in `INDEX.md`; potential future spin-offs:* `haredi-conscription-outline-2026`, `judicial-overhaul-repeal-26th-knesset`, `election-day-rahat-raids-probe`.
+- **`netanyahu-investigations`:** Coalition talks in Round 1 intersect directly with Netanyahu's trial posture ahead of AG Baharav-Miara's Nov 25 closed-door Case 4000 hearing, the Change Bloc's Nov 18 preliminary repeals of Judicial Selection Amendment 105 and the AG Law, Beit HaNassi's unresolved pardon mediation, and Nov 15 *Uvda* revelations involving PMO Chief of Staff Ido Norden in pre-raid Rahat referrals.
+- *Potential future spin-offs:* `haredi-conscription-outline-2026`, `judicial-overhaul-repeal-26th-knesset`, `election-day-rahat-raids-probe`.

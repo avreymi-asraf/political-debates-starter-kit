@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "skills": {
+    "audit-agent-context": {
+      "source": "avreymi-asraf/agent-skills",
+      "commit": "e480febbc88496d2fcd4be8e873ea98c686b4cfe",
+      "sourceType": "github",
+      "skillPath": "skills/audit-agent-context/SKILL.md",
+      "computedHash": "0bdab01df24ef088954f92c6e1c3f123c3b122b404ef8a47dae203baf7f9607f"
+    },
+    "grow-autonomy": {
+      "source": "avreymi-asraf/agent-skills",
+      "commit": "e480febbc88496d2fcd4be8e873ea98c686b4cfe",
+      "sourceType": "github",
+      "skillPath": "skills/grow-autonomy/SKILL.md",
+      "computedHash": "5d7463dfe6c323bf0db8b16c3805ab7170f36fb1058f87744165d3b756137af8"
+    },
+    "politics-investigator": {
+      "source": "avreymi-asraf/agent-skills",
+      "commit": "e480febbc88496d2fcd4be8e873ea98c686b4cfe",
+      "sourceType": "github",
+      "skillPath": "skills/politics-investigator/SKILL.md",
+      "computedHash": "8cb5a2e6409ff49c9ba41f37ef0a7e917edc60f2ce8ac7f3ad717baf7375deb2"
+    }
+  }
+}

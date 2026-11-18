@@ -1,419 +1,419 @@
-# Raw Sources: Benjamin Netanyahu Criminal, Security, and Public Inquiry Investigations
+# מקורות גולמיים: החקירות הפליליות, הביטחוניות וועדות החקירה בעניין בנימין נתניהו
 
-## Source Protocol
+## פרוטוקול מקורות
 
-Use one entry per primary source or important artifact. Full verbatim text belongs here. Search summaries and social posts are leads unless independently corroborated.
+לכל מקור ראשוני או ממצא מרכזי מוקצה סעיף ייעודי. הטקסטים והציטוטים הרלוונטיים מובאים כאן כמות שהם. סיכומי חיפוש ופוסטים ברשתות חברתיות משמשים כקצה חוט בלבד עד לאימות עצמאי מול מקורות ראשוניים או תיעוד מוצלב.
 
-## Sources
+## מקורות
 
-### S001 - Main Corruption Trial Indictment and Procedural Framework 67104-01-20
+### S001 - כתב האישום והמסגרת הדיונית במשפט האלפים 67104-01-20
 
-- **Type:** primary official and corroborated legal record
-- **Tier:** 1 / 2
-- **Issuer or Account:** Israel State Attorney / Jerusalem District Court (`ת"פ (י-ם) 67104-01-20 מדינת ישראל נ' נתניהו ואח'`), corroborated via Ynet (`ynet.co.il`) and Wikipedia primary docket consolidation
-- **Published:** 2020-01-28 (original), 2021-01-03 (amended), ongoing through 2026-11-18
-- **Captured:** 2026-11-18
-- **Version:** amended indictment
-- **URL:** https://www.ynet.co.il/articles/0,7340,L-5629735,00.html ; https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%A4%D7%98_%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95
-- **Local Copy:** none (`gov.il` PDF download returned Cloudflare HTTP 403; verified via live web browse and search)
-- **Document/Docket Number:** `ת"פ (י-ם) 67104-01-20`
-- **Read:** partial (indictment structure, charge counts, key dates, and amended totals verified across sources)
-- **Provenance Notes:** Indictment announced 21 Nov 2019 by AG Avichai Mandelblit, filed 28 Jan 2020 after Netanyahu withdrew his Knesset immunity request, amended 3 Jan 2021 (including Annex A detailing 315 alleged *Walla!* coverage requests in Case 4000). Trial opened 24 May 2020 before Jerusalem District Court Judges Rivka Friedman-Feldman (President/Chair), Moshe Bar-Am, and Oded Shaham; defense evidentiary phase opened 10 Dec 2024.
-- **Can Establish:** Exact statutory charges, co-defendants, financial/gift scope alleged by Prosecution (Case 1000: NIS ~690,000 from Arnon Milchan and James Packer; Case 2000: fraud and breach of trust over *Yedioth Ahronoth* / *Israel Hayom* discussions with Arnon Mozes; Case 4000: bribery plus fraud and breach of trust over Bezeq–*Walla!* regulatory/coverage alignment with Shaul and Iris Elovitch), and Netanyahu's formal denial of all charges.
-- **Cannot Establish:** Criminal guilt; no verdict has been issued and Netanyahu maintains full presumption of innocence.
+- **סוג:** רשומה שיפוטית ראשונית ותיעוד משפטי מוצלב
+- **רמת מהימנות (Tier):** 1 / 2
+- **גורם מפרסם:** פרקליטות המדינה / בית המשפט המחוזי בירושלים (`ת"פ (י-ם) 67104-01-20 מדינת ישראל נ' נתניהו ואח'`), בהצלבה מול `ynet` וריכוז ההליכים הציבורי
+- **תאריך פרסום:** 2020-01-28 (מקורי), 2021-01-03 (מתוקן), מתנהל ברצף עד 2026-11-18
+- **תאריך דגימה:** 2026-11-18
+- **גרסה:** כתב אישום מתוקן
+- **קישור (URL):** https://www.ynet.co.il/articles/0,7340,L-5629735,00.html ; https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%A4%D7%98_%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95
+- **עותק מקומי:** אין (ניסיון הורדה ישיר מ־`gov.il` נחסם בידי Cloudflare ב־HTTP 403; אומת בדפדפן חי ובחיפוש)
+- **מספר תיק / מסמך:** `ת"פ (י-ם) 67104-01-20`
+- **היקף קריאה:** חלקי (מבנה האישומים, סעיפי העבירה, תאריכי מפתח והיקף הסכומים המתוקן אומתו בהצלבה)
+- **הערות מהימנות ומקור:** כתב האישום הוכרז בידי היועץ המשפטי לממשלה אביחי מנדלבליט ב־21.11.2019, הוגש לבית המשפט ב־28.1.2020 לאחר שנתניהו משך את בקשת החסינות מהכנסת, ותוקן ב־3.1.2021 (כולל נספח א' המפרט 315 אירועי סיקור נטענים ב"וואלה!" בתיק 4000). המשפט נפתח ב־24.5.2020 בפני ההרכב: השופטת רבקה פרידמן-פלדמן (אב"ד), השופט משה בר-עם והשופט עודד שחם; פרשת ההגנה נפתחה ב־10.12.2024.
+- **מה המקור מוכיח:** את סעיפי האישום המדויקים, זהות הנאשמים הנוספים והיקף הטענות של התביעה (תיק 1000: טובות הנאה בהיקף של כ־690 אלף ש"ח מארנון מילצ'ן ומג'יימס פאקר, עבירת מרמה והפרת אמונים; תיק 2000: מרמה והפרת אמונים סביב שיחות נתניהו–ארנון מוזס בעניין "ידיעות אחרונות" ו"ישראל היום"; תיק 4000: שוחד ומרמה והפרת אמונים סביב רגולציית בזק וסיקור "וואלה!" מול שאול ואיריס אלוביץ'), וכן את כפירתו הרשמית של נתניהו בכל האישומים.
+- **מה המקור אינו מוכיח:** אשמה פלילית; טרם ניתן פסק דין, ולנתניהו ולנאשמים הנוספים עומדת חזקת החפות המלאה.
 
-#### Verbatim Extract
+#### ציטוט מילולי
 
 > ת"פ (י־ם) 67104-01-20 מדינת ישראל נ' נתניהו ואחרים... הוא משפט שנפתח ב־24 במאי 2020 בבית המשפט המחוזי בירושלים, ובו עומדים לדין ראש ממשלת ישראל, בנימין נתניהו, המו"ל ובעל השליטה בקבוצת "ידיעות אחרונות" ארנון מוזס, איש העסקים שאול אלוביץ' ורעייתו איריס אלוביץ'. נתניהו עומד לדין בכל שלוש הפרשות, המכונות "תיק 1000", "תיק 2000" ו"תיק 4000", בסעיפי אישום הכוללים עבירה אחת של שוחד ושלוש עבירות של מרמה והפרת אמונים, שביצע לכאורה בעת שכיהן בתפקידו. אלוביץ' ורעייתו עומדים לדין בתיק 4000 באשמת מתן שוחד ושיבוש הליכי חקירה והדחה בחקירה. מוזס עומד לדין בתיק 2000 באשמת ניסיון למתן שוחד.
 > היקף טובות ההנאה הצטבר לסך של 690 אלף שקל, והם ניתנו לנתניהו בזיקה לתפקידיו הציבוריים ולמעמדו כראש ממשלת ישראל.
 > ב-12 במאי 2026 נפתחה החקירה הנגדית של נתניהו בתיק 2000, על ידי עורך הדין יוני תדמור...
 
-#### Analytical Note
+#### הערה אנליטית
 
-In Case 1000, State's witness Hadas Klein testified in July 2022 and State's witness Ari Harow testified in May 2023 (also covering Case 2000). Former Communications Ministry Director-General Shlomo Filber served as State's witness in Case 4000 before turning hostile during trial testimony. Defense cross-examinations of Netanyahu in 2025–2026 focused on contesting both quid-pro-quo intent (e.g., arguing he repeatedly acted against Milchan's and *Yedioth Ahronoth*'s commercial interests) and prosecutorial proportionality (framing Prosecution cross-examination in June 2025 on a 1996 Bugs Bunny gift as a "Bugs Bunny trial"). Meanwhile, top Likud aide Topaz Luk testified as a defense witness on 16 Nov 2026 characterizing Netanyahu as uninvolved in negative media operations before encountering cross-examination contradictions (*The7Eye*).
+בתיק 1000 העידו מטעם התביעה הדס קליין (יולי 2022) ועד המדינה ארי הרו (מאי 2023, שגם העיד בתיק 2000). בתיק 4000 שימש מנכ"ל משרד התקשורת לשעבר שלמה פילבר כעד מדינה והוכרז עד עוין במהלך עדותו. חקירתו הנגדית של נתניהו בשנים 2025–2026 התמקדה בשלילת יסוד התמורה (למשל הטענה שפעל לא פעם נגד האינטרסים הכלכליים של מילצ'ן ושל "ידיעות אחרונות") ובתקיפת מידתיות התביעה (כגון מיתוג חקירת יוני 2025 על בובת באגס באני משנת 1996 כ"משפט באגס באני"). בתוך כך העיד יועץ הליכוד טופז לוק מטעם ההגנה ב־16.11.2026 וטען כי נתניהו אינו מעורב בקמפיינים שליליים ואינו עוסק בסיקורו, אך נתקל בסתירות בחקירה הנגדית ("העין השביעית").
 
-#### Follow-Up Leads
+#### כיווני המשך
 
-- [ ] Obtain direct PDF of the January 3, 2021 amended indictment (`files_03.01.2021.pdf`) via browser export to verify paragraph-level wording of Case 4000 Annex A items.
+- [ ] להשיג את קובץ ה־PDF המלא של כתב האישום המתוקן מ־3.1.2021 (`files_03.01.2021.pdf`) דרך דפדפן לאימות ניסוח סעיפי נספח א' בתיק 4000.
 
 ---
 
-### S002 - November 2026 Inflection Mandelblit Testimony HCJ Rule Nisi and Defense Reversal
+### S002 - תפנית נובמבר 2026 עדות מנדלבליט צו על תנאי בבגץ ונסיגת ההגנה
 
-- **Type:** primary court decision text reported verbatim and courtroom reporting
-- **Tier:** 1 / 2
-- **Issuer or Account:** Jerusalem District Court / High Court of Justice (`בג"ץ`), reported by Makor Rishon (`makorrishon.co.il`, Shlomo Piotrkoveski) and The7Eye (`the7eye.org.il`, Oren Persico)
-- **Published:** 2026-10-12 / 2026-11-15 / 2026-11-18
-- **Captured:** 2026-11-18
-- **Version:** final court order and verbatim testimony summary
-- **URL:** https://www.makorrishon.co.il/news/law/article/394234 ; https://www.the7eye.org.il/600346 ; https://www.the7eye.org.il/596920
-- **Local Copy:** none
-- **Document/Docket Number:** `ת"פ (י-ם) 67104-01-20` (Nov 2 & Nov 18, 2026 orders); HCJ rule nisi (`צו על תנאי`, Nov 17, 2026)
-- **Read:** full (`makorrishon 394234`, `the7eye 600346`)
-- **Provenance Notes:** `Makor Rishon` quotes verbatim the Jerusalem District Court's November 18, 2026 morning decision following the defense's capitulation after HCJ justices Isaac Amit, Yael Willner, and Khaled Kabub issued a conditional order (`צו על תנאי`) on Nov 17 against the District Court's Nov 2 restriction limiting Prosecution questioning of Mandelblit to re-examination (`חקירה חוזרת`) under Criminal Procedure Law §174/§178.
-- **Can Establish:** Exact courtroom testimony of former AG Avichai Mandelblit (confirming he personally authorized probes on solid suspicions and rejecting a "case-stitching" conspiracy, while acknowledging he did not inspect all 315 Case 4000 annex items personally and that investigators/prosecutors withheld/failed to update him on certain investigative steps such as the Nir Hefetz "associate" exercise); the Prosecution's Nov 16 HCJ petition; the Nov 17 HCJ rule nisi; and the Nov 18 Defense reversal permitting Prosecution cross-examination going forward (`מכאן ולהבא`).
-- **Cannot Establish:** How the panel will ultimately weigh investigative flaws versus substantive evidence at verdict, or whether the Prosecution will recall Mandelblit immediately versus later witnesses.
+- **סוג:** החלטת בית משפט מדווחת מילה במילה ודיווח עיתונאי מן האולם
+- **רמת מהימנות (Tier):** 1 / 2
+- **גורם מפרסם:** בית המשפט המחוזי בירושלים / בית המשפט העליון בשבתו כבג"ץ, בדיווחי "מקור ראשון" (שלמה פיוטרקובסקי) ו"העין השביעית" (אורן פרסיקו)
+- **תאריך פרסום:** 2026-10-12 / 2026-11-15 / 2026-11-18
+- **תאריך דגימה:** 2026-11-18
+- **גרסה:** החלטה שיפוטית חלוטה וסיכומי עדות מילוליים
+- **קישור (URL):** https://www.makorrishon.co.il/news/law/article/394234 ; https://www.the7eye.org.il/600346 ; https://www.the7eye.org.il/596920
+- **עותק מקומי:** אין
+- **מספר תיק / מסמך:** `ת"פ (י-ם) 67104-01-20` (החלטות מיום 2.11 ו־18.11.2026); צו על תנאי בבג"ץ (17.11.2026)
+- **היקף קריאה:** מלא (`makorrishon 394234`, `the7eye 600346`)
+- **הערות מהימנות ומקור:** "מקור ראשון" מצטט מילה במילה את החלטת הבוקר של בית המשפט המחוזי בירושלים מ־18.11.2026 בעקבות נסיגת ההגנה, לאחר ששופטי בג"ץ יצחק עמית, יעל וילנר וח'אלד כבוב הוציאו ב־17.11 צו על תנאי נגד החלטת המחוזי מ־2.11 להגביל את הפרקליטות לחקירה חוזרת בלבד (סעיפים 174 ו־178 לחוק סדר הדין הפלילי).
+- **מה המקור מוכיח:** את תוכן עדותו המרכזית של היועמ"ש לשעבר אביחי מנדלבליט (שאישר את החקירות על בסיס חשדות מוצקים והכחיש קונספירציית "תפירת תיקים", תוך שאישר כי לא עבר אישית על כל 315 הסעיפים בתיק 4000 וכי פעולות חקירה מסוימות — כמו תרגיל "המקורבת" לניר חפץ — לא שוקפו לו בזמן אמת); את עתירת הפרקליטות לבג"ץ ב־16.11; את הצו על תנאי ב־17.11; ואת הסכמת ההגנה בבוקר 18.11 לאפשר חקירה נגדית של הפרקליטות לעדים אלה "מכאן ולהבא".
+- **מה המקור אינו מוכיח:** כיצד ישקלל ההרכב בהכרעת הדין פגמי חקירה לעומת ראיות מהותיות, והאם הפרקליטות תבקש לזמן מחדש את מנדלבליט עצמו.
 
-#### Verbatim Extract
+#### ציטוט מילולי
 
 > "אני אישרתי לבדוק בוודאות בכל התחומים כולל בחו"ל ובארץ... יכול להיות שבשלבים ראשונים, וזו האמירה של 'הלב הכבד', אני באמת קיוויתי לאורך כל הדרך שזה לא יבשיל לידי חקירה ובוודאי לא לכתב אישום." (אביחי מנדלבליט, העין השביעית, 12.10.2026)
 > "בהמשך להסכמת המאשימה והנאשם 1, הרינו קובעים כי בכל הנוגע לחקירת עדים המזומנים על ידי מי מהנאשמים, שלא נמסרה מטעם המאשימה הודעה בעת הגשת כתב האישום לפי סעיף 174 לחוק סדר הדין הפלילי [נוסח משולב], התשמ"ב-1982, כי לא יחקרו עדים אלה בחקירה ראשית, תוכל המאשימה לחקור עדים אלה בחקירה נגדית, מכאן ולהבא." (החלטת בית המשפט המחוזי בירושלים, מקור ראשון, 18.11.2026)
 
-#### Analytical Note
+#### הערה אנליטית
 
-The Nov 2–18 sequence illustrates sharp procedural friction between the trial panel and Prosecution. The panel initially invoked §§174/178 of the Criminal Procedure Law (because Prosecution witnesses also on the Defense list are normally subject to defense cross during Prosecution's case) to bar Prosecution cross-examination of Mandelblit—a ruling that triggered an extraordinary mid-trial HCJ petition on Nov 16 and immediate conditional order on Nov 17. Defense counsel Amit Hadad retreated the next morning (`מכאן ולהבא`) rather than litigate the conditional order at HCJ.
+רצף האירועים בין 2 ל־18 בנובמבר 2026 ממחיש חיכוך דיוני חריף בין ההרכב במחוזי לבין התביעה: ההרכב נצמד תחילה לסעיפים 174/178 לחסד"פ כדי למנוע חקירה נגדית של מנדלבליט, הפרקליטות הגיבה בעתירה חריגה בעיצומו של משפט פלילי (16.11), בג"ץ הוציא צו על תנאי מידי (17.11), וסנגורו של נתניהו עו"ד עמית חדד בחר להסכים להיתר חקירה נגדית מכאן ואילך בבוקר שלמחרת במקום להתמודד בדיון בבג"ץ.
 
-#### Follow-Up Leads
+#### כיווני המשך
 
-- [ ] Track whether the Prosecution proceeds to cross-examine subsequent former senior law-enforcement defense witnesses (e.g., Roni Alsheich, Shai Nitzan, police investigators) and whether it seeks to re-examine Mandelblit under the HCJ ruling.
+- [ ] לעקוב אחר החקירות הנגדיות של הפרקליטות מול עדי ההגנה הבאים מקרב מערכת אכיפת החוק לשעבר (כגון רוני אלשיך, שי ניצן וחוקרי להב 433).
 
 ---
 
-### S003 - Trial Panel Summons of AG Baharav-Miara on Case 4000 Bribery Postponed to Nov 25 2026
+### S003 - זימון היועמשית בהרב מיארה לדיון סגור על סעיף השוחד בתיק 4000 דחייה ל25 בנובמבר 2026
 
-- **Type:** corroborated court scheduling report
-- **Tier:** 2
-- **Issuer or Account:** Channel 14 (`c14.co.il`, Efrat Briner)
-- **Published:** 2026-11-16
-- **Captured:** 2026-11-18
-- **Version:** final report
-- **URL:** https://www.c14.co.il/article/1790463
-- **Local Copy:** none
-- **Document/Docket Number:** `ת"פ (י-ם) 67104-01-20`
-- **Read:** full
-- **Provenance Notes:** Reporting from Jerusalem District Court calendar updates; corroborated in *The7Eye* (Nov 15–16, 2026). Channel 14 has an editorial pro-Netanyahu orientation, so factual scheduling dates are treated as corroborated only alongside *The7Eye* and judicial context.
-- **Can Establish:** The Jerusalem District Court panel (Friedman-Feldman, Bar-Am, Shaham) summoned Attorney General Gali Baharav-Miara to an in-camera / closed-door session originally set for Wednesday Nov 18, 2026, and subsequently postponed it by one week to **Wednesday, November 25, 2026 at 09:30** to address the future of Case 4000 bribery and trial management.
-- **Cannot Establish:** What Baharav-Miara will state in the Nov 25 closed session or whether the State Attorney will agree to withdraw or amend the Case 4000 bribery charge (first hinted as difficult to prove by the judges in June 2023).
+- **סוג:** דיווח חדשותי מוצלב על יומן בית המשפט
+- **רמת מהימנות (Tier):** 2
+- **גורם מפרסם:** ערוץ 14 (`c14.co.il`, אפרת ברינר)
+- **תאריך פרסום:** 2026-11-16
+- **תאריך דגימה:** 2026-11-18
+- **גרסה:** פרסום סופי
+- **קישור (URL):** https://www.c14.co.il/article/1790463
+- **עותק מקומי:** אין
+- **מספר תיק / מסמך:** `ת"פ (י-ם) 67104-01-20`
+- **היקף קריאה:** מלא
+- **הערות מהימנות ומקור:** דיווח מלוח הזמנים של המחוזי בירושלים; עצם זימון היועמ"שית לדיון מיוחד מוצלב ב"העין השביעית" (15–16.11.2026). בשל הקו המערכתי הפוליטי של ערוץ 14, עובדות התאריך והזימון מובאות בנפרד מהפרשנות.
+- **מה המקור מוכיח:** הרכב השופטים (פרידמן-פלדמן, בר-עם ושחם) זימן את היועמ"שית גלי בהרב-מיארה אישית לדיון חריג בדלתיים סגורות שנקבע תחילה ליום רביעי 18.11.2026 ונדחה בשבוע ליום **רביעי, 25 בנובמבר 2026 בשעה 09:30**, לדיון בניהול המשפט ובשאלת אישום השוחד בתיק 4000.
+- **מה המקור אינו מוכיח:** מה תמסור היועמ"שית בדיון ב־25.11 או האם הפרקליטות תסכים למשוך או לתקן את סעיף השוחד בתיק 4000 (בעקבות הערת השופטים מיוני 2023).
 
-#### Verbatim Extract
+#### ציטוט מילולי
 
 > היועצת המשפטית לממשלה, גלי בהרב מיארה, זומנה לדיון חריג שיתקיים בדלתיים סגורות בבית המשפט המחוזי בירושלים בעניין משפטו של ראש הממשלה בנימין נתניהו... הדיון שהיה אמור להתקיים ביום רביעי הקרוב (18.11) נדחה בשבוע ויתקיים ביום רביעי, 25 בנובמבר, בשעה 09:30 בבוקר, בפני הרכב השופטים רבקה פרידמן-פלדמן, משה בר-עם ועודד שחם.
 
-#### Analytical Note
+#### הערה אנליטית
 
-This is an unusually direct judicial intervention inside an ongoing criminal trial: summoning the sitting Attorney General personally to the trial chamber (rather than trial prosecutors alone) to discuss Case 4000 and trial trajectory, occurring simultaneously with Beit HaNassi's behind-the-scenes plea/settlement push (S006) and Knesset coalition negotiations (see `israel-2026-government-formation`).
+זימון אישי של היועצת המשפטית לממשלה עצמה לישיבה סגורה בלשכת ההרכב במהלך משפט פלילי הוא צעד שיפוטי יוצא דופן, המתוזמן במקביל ליוזמת ההידברות של בית הנשיא (S006) ולמשא ומתן הקואליציוני בכנסת ה־26 (`israel-2026-government-formation`).
 
-#### Follow-Up Leads
+#### כיווני המשך
 
-- [ ] Capture official court readout or press release following the November 25, 2026 closed-door session with AG Baharav-Miara.
+- [ ] לאסוף הודעה רשמית או דיווח מסכם מדוברות בתי המשפט / משרד המשפטים בתום הדיון הסגור ב־25.11.2026.
 
 ---
 
-### S004 - Sydney Morning Herald and The7Eye Investigation on James Packer 1.25M Retainer to Amit Hadad
+### S004 - תחקיר סידני מורנינג הראלד והעין השביעית על תשלומי גיימס פאקר למשרד עמית חדד
 
-- **Type:** investigative journalism
-- **Tier:** 2
-- **Issuer or Account:** *The7Eye* (`the7eye.org.il`), citing *Sydney Morning Herald* / *Brisbane Times* / *WAtoday* joint investigation
-- **Published:** 2026-10-26 / 2026-11-01
-- **Captured:** 2026-11-18
-- **Version:** final
-- **URL:** https://www.the7eye.org.il/598536 ; https://www.the7eye.org.il/598544 ; https://www.the7eye.org.il/598942
-- **Local Copy:** none
-- **Document/Docket Number:** Not applicable (investigative bank/corporate trace)
-- **Read:** full (`598536`), partial (`598544`, `598942`)
-- **Provenance Notes:** Based on Australian investigative reporting tracing Citibank transfers from James Packer's Consolidated Press International (CPI) to Hadad-Roth-Shenhar at Bank Mizrahi-Tefahot. Neither Packer nor Hadad denied the transfers; an unnamed source close to Packer asserted they paid for unrelated Israeli deal-scouting services, without providing documentary proof.
-- **Can Establish:** Starting 23 September 2024 (~8 weeks after Packer attended Netanyahu's July 2024 US Congress address and shared a Shabbat dinner), CPI transferred monthly $50,000 payments totaling at least **$1.25 million** over ~2 years to Netanyahu lead counsel Amit Hadad's law firm; upon publication (Oct 26, 2026), Hadad notified the District Court of the financial relationship and announced Packer had agreed to testify remotely from abroad.
-- **Cannot Establish:** That the $1.25M subsidized Netanyahu's legal fees or constituted an illicit gift/bribe; Israeli authorities have not announced a new criminal investigation into the payments as of Nov 18, 2026.
+- **סוג:** תחקיר עיתונאי
+- **רמת מהימנות (Tier):** 2
+- **גורם מפרסם:** "העין השביעית" (`the7eye.org.il`), על בסיס תחקיר *Sydney Morning Herald* / *Brisbane Times* / *WAtoday*
+- **תאריך פרסום:** 2026-10-26 / 2026-11-01
+- **תאריך דגימה:** 2026-11-18
+- **גרסה:** סופית
+- **קישור (URL):** https://www.the7eye.org.il/598536 ; https://www.the7eye.org.il/598544 ; https://www.the7eye.org.il/598942
+- **עותק מקומי:** אין
+- **מספר תיק / מסמך:** אין (מעקב העברות בנקאיות ותאגידיות)
+- **היקף קריאה:** מלא (`598536`), חלקי (`598544`, `598942`)
+- **הערות מהימנות ומקור:** מתבסס על תחקיר עיתונאי אוסטרלי המתחקה אחר העברות מחשבון Citibank של חברת Consolidated Press International (CPI) שבשליטת פאקר לחשבון משרד חדד-רוט-שנהר בבנק מזרחי-טפחות. פאקר וחדד לא הכחישו את עצם ההעברות; מקור בסביבת פאקר טען שהן ניתנו בעד שירותים עסקיים בישראל לפאקר עצמו ולא עבור משפט נתניהו, אך לא סיפק הוכחות לעסקאות.
+- **מה המקור מוכיח:** החל מ־23 בספטמבר 2024 (~8 שבועות לאחר ביקור נתניהו בקונגרס האמריקאי ביולי 2024 שבו נכח פאקר כאורח) העבירה CPI תשלומים חודשיים של 50 אלף דולר בסך מצטבר של לפחות **1.25 מיליון דולר** במשך כשנתיים למשרד סנגורו המרכזי של נתניהו; עם פרסום התחקיר (26.10.2026) דיווח עו"ד חדד לשופטים על הקשר הכלכלי והודיע כי פאקר הסכים להעיד מחו"ל בהיוועדות חזותית.
+- **מה המקור אינו מוכיח:** שהכספים מימנו את שכר הטרחה של נתניהו או היוו טובת הנאה עקיפה אסורה; נכון ל־18.11.2026 לא נפתחה חקירה פלילית רשמית בפרשה.
 
-#### Verbatim Extract
+#### ציטוט מילולי
 
 > איש העסקים האוסטרלי המיליארדר ג'יימס פאקר העביר לפחות 1.25 מיליון דולר למשרד עורכי הדין הישראלי חדד-שנהר-רוט, המייצג את ראש הממשלה בנימין נתניהו במשפטיו הפליליים. כך עולה מתחקיר שפורסם היום (26.10) ב"סידני מורנינג הראלד" האוסטרלי... הכספים הועברו בתשלומים חודשיים של 50 אלף דולר מחשבון בנק של חברה בשליטת פאקר לחשבון משרד עורכי הדין בבנק מזרחי-טפחות. התשלום הראשון, שהוגדר כריטיינר חודשי, הועבר ב-23 בספטמבר 2024.
 
-#### Analytical Note
+#### הערה אנליטית
 
-Because Packer is a central figure in Case 1000 (having allegedly supplied champagne, cigars, and his adjacent Caesarea villa while State Comptroller/AG rules barred Netanyahu from accepting foreign benefactor legal-defense funding), his $1.25M payments to Netanyahu's trial counsel—and his sudden willingness to appear as a remote witness immediately upon exposure—raise acute evidentiary credibility and ethics questions under judicial scrutiny.
+מאחר שפאקר הוא מדמויות המפתח בתיק 1000 — ומאחר שמבקר המדינה והיועמ"ש אסרו בעבר על נתניהו לממן את הגנתו המשפטית בידי בעלי הון מחו"ל — התשלומים החודשיים למשרד סנגורו ושינוי עמדתו המפתיע של פאקר להעיד לאחר שנים של הימנעות מציבים סימני שאלה אתיים וראייתיים על מהימנות עדותו הצפויה.
 
-#### Follow-Up Leads
+#### כיווני המשך
 
-- [ ] Track Packer's scheduled remote testimony date and whether the State Attorney or Israel Bar opens an inquiry into fee-fee-shifting / indirect benefit allegations.
+- [ ] לעקוב אחר מועד עדותו של פאקר מרחוק ואחר פנייה אפשרית של הפרקליטות או לשכת עורכי הדין לבחינת ההתקשרות.
 
 ---
 
-### S005 - HCJ Conflict-of-Interest Order HCJ 3056-20 and Premiership Overhaul Rulings
+### S005 - החלטת בגץ 3056-20 בעניין ניגוד עניינים ופסיקות הרכבת הממשלה והרפורמה
 
-- **Type:** primary official Supreme Court decision (plus legislative status cross-check)
-- **Tier:** 1
-- **Issuer or Account:** Supreme Court of Israel sitting as High Court of Justice (`בג"ץ`), Chief Justice Esther Hayut, Deputy Chief Justice Uzi Vogelman, Justice Isaac Amit
-- **Published:** 2023-05-01 (order in `בג"ץ 3056/20`), referencing `בג"ץ 2592/20` (2020-05-06) & `בג"ץ 3056/20` (2021-03-25); legislative cross-check `i24news.tv` (2026-01-12/15) & `Knesset` (2026-11-18)
-- **Captured:** 2026-11-18
-- **Version:** final judicial order (PDF downloaded and inspected locally)
-- **URL:** https://img.haarets.co.il/bs/00000187-d7b0-d9b4-abaf-ffbe198a0000/a8/a7/99261ec948a1aadca43941f216ba/bagatz.pdf ; https://www.i24news.tv/he/news/news/politics/artc-dc263fa3
-- **Local Copy:** `assets/2026-11-18_hcj_bagatz-3056-20-coi-order.pdf` (see `V001`)
-- **Document/Docket Number:** `בג"ץ 3056/20` (`20030560_V54.docx`)
-- **Read:** full (5-page HCJ PDF inspected page-by-page)
-- **Provenance Notes:** Authentic 5-page Supreme Court PDF document verified with `file` and `view_file`. Note subsequent related HCJ dockets `בג"ץ 3618/23` (11.1.2024, "incapacity law" effective next Knesset term) and `בג"ץ 2854/24` (5.5.2024).
-- **Can Establish:**
-  1. In `בג"ץ 2592/20` (6 May 2020), an 11-justice HCJ panel permitted MK Netanyahu to form a government under indictment, while recording the AG's declaration that his premiership would be subject to a Conflict-of-Interest (COI) arrangement.
-  2. In `בג"ץ 3056/20` (25 Mar 2021), the HCJ ruled that AG Mandelblit's 2 Nov 2020 COI opinion was issued within authority and **legally binds** the Prime Minister.
-  3. On 17 Jan & 1 Feb 2023, AG Gali Baharav-Miara reaffirmed the COI arrangement barred Netanyahu from involvement in the 2023 judicial overhaul (`הרפורמה המשפטית`); following Netanyahu's 23 Mar 2023 speech (`אני נכנס לאירוע`), the AG notified him he had breached the arrangement, and the HCJ on 1 May 2023 dismissed a contempt motion solely on procedural grounds ("declarative/normative" order) while explicitly reiterating that **the AG's COI opinion is binding unless the Court rules otherwise**.
-  4. In January 2026, a coalition bill promoted by MK Simcha Rothman et al. to abolish the offense of fraud and breach of trust (`מרמה והפרת אמונים`) was halted on Jan 15, 2026 by Cabinet Secretary Yossi Fuchs after legal/public backlash over its impact on Netanyahu's trial.
-- **Cannot Establish:** That any individual overhaul statute invalidated Netanyahu's trial or retroactively altered the 26th Knesset, where on Nov 18, 2026 the 67-MK majority passed preliminary repeals of Judicial Selection Amendment 105 (62–46) and the AG Law (63–47).
+- **סוג:** החלטה שיפוטית ראשונית של בית המשפט העליון (בתוספת מעקב חקיקה בכנסת)
+- **רמת מהימנות (Tier):** 1
+- **גורם מפרסם:** בית המשפט העליון בשבתו כבג"ץ (הנשיאה חיות, המשנה לנשיאה פוגלמן, השופט עמית); הצלבת חקיקה ב־`i24news.tv` (ינואר 2026) ובכנסת (נובמבר 2026)
+- **תאריך פרסום:** 2023-05-01 (`בג"ץ 3056/20`), בהמשך ל־`בג"ץ 2592/20` (2020-05-06) ו־`בג"ץ 3056/20` (2021-03-25)
+- **תאריך דגימה:** 2026-11-18
+- **גרסה:** החלטה שיפוטית סופית (קובץ PDF מלא הורד ונבדק מקומית)
+- **קישור (URL):** https://img.haarets.co.il/bs/00000187-d7b0-d9b4-abaf-ffbe198a0000/a8/a7/99261ec948a1aadca43941f216ba/bagatz.pdf ; https://www.i24news.tv/he/news/news/politics/artc-dc263fa3
+- **עותק מקומי:** `assets/2026-11-18_hcj_bagatz-3056-20-coi-order.pdf` (ראו `V001`)
+- **מספר תיק / מסמך:** `בג"ץ 3056/20` (`20030560_V54.docx`)
+- **היקף קריאה:** מלא (5 עמודי ההחלטה נקראו ונבדקו עמוד אחר עמוד)
+- **הערות מהימנות ומקור:** קובץ PDF אותנטי של בית המשפט העליון שאומת מקומית. בהמשך ניתנו גם פסקי הדין ב`בג"ץ 3618/23` (11.1.2024, תחולת חוק הנבצרות מהכנסת הבאה) וב`בג"ץ 2854/24` (5.5.2024).
+- **מה המקור מוכיח:**
+  1. ב`בג"ץ 2592/20` (6.5.2020) התיר הרכב של 11 שופטים לנתניהו להרכיב ממשלה תחת כתב אישום, תוך רישום הודעת היועמ"ש שכהונתו תוכפף להסדר ניגוד עניינים.
+  2. ב`בג"ץ 3056/20` (25.3.2021) נקבע שחוות דעת היועמ"ש מ־2.11.2020 ניתנה בסמכות ומחייבת את ראש הממשלה.
+  3. ב־17.1 וב־1.2.2023 קבעה היועמ"שית בהרב-מיארה שההסדר אוסר על נתניהו לעסוק ברפורמה המשפטית; לאחר נאום נתניהו ב־23.3.2023 ("אני נכנס לאירוע") קבעה היועמ"שית כי הפר את ההסדר, וב־1.5.2023 דחה בג"ץ בקשה לביזיון בית משפט מטעם דיוני בלבד (צו נורמטיבי לעומת אופרטיבי) אך הדגיש מפורשות כי **חוות דעת היועמ"שית מחייבת את רה"מ כל עוד לא קבע בית המשפט אחרת**.
+  4. בינואר 2026 קידמו חברי קואליציה (בהם ח"כ שמחה רוטמן) הצעת חוק לביטול עבירת מרמה והפרת אמונים, אך ב־15.1.2026 בלם מזכיר הממשלה יוסי פוקס את קידומה עקב הסערה סביב השפעתה על משפט נתניהו.
+- **מה המקור אינו מוכיח:** שחקיקה כלשהי מהכנסת ה־25 פגעה בתוקף המשפט הפלילי; מנגד, ב־18.11.2026 העבירה הכנסת ה־26 בקריאה טרומית הצעות לביטול תיקון 105 (הוועדה לבחירת שופטים, 62–46) וביטול החוק לפיצול סמכויות היועמ"ש (63–47).
 
-#### Verbatim Extract
+#### ציטוט מילולי
 
 > "עוד ראינו לשוב ולהדגיש כי בתחום זה של הסדרי ניגוד עניינים – כמו בתחומים אחרים – חוות דעתה של היועצת המשפטית לממשלה מחייבת, כל עוד לא קבע בית המשפט אחרת... 'לפיכך, הותרת ההכרעה הסופית והמחייבת בתחום זה בידי היועץ – ולא בידי השר נושא ההסדר – יש לה חשיבות ברורה ומובהקת...'" (בג"ץ 3056/20, החלטה מיום 1.5.2023, עמ' 5)
 
-#### Analytical Note
+#### הערה אנליטית
 
-This ruling forms the constitutional hinge connecting Netanyahu's personal criminal trial to Israel's macro-institutional conflict of 2023–2026: the HCJ allowed him to govern under indictment in May 2020 *only* in tandem with a binding COI firewall separating him from judicial/prosecutorial appointments and reforms—a firewall Netanyahu challenged on grounds of Knesset MK immunity and "doctrine of necessity" (`כלל הצורך`), and which his 25th Knesset coalition attempted to restructure via AG-split and judicial-committee legislation prior to the 26th Knesset preliminary repeals of Nov 18, 2026.
+פסקי דין אלה הם הציר החוקתי המחבר בין משפטו האישי של נתניהו לבין המשבר המשטרי של 2023–2026: ההכרה בכשירותו לכהן תחת אישום (מאי 2020) הוצמדה לחיץ מחייב של היועמ"ש בינו לבין מערכת המשפט והתביעה — חיץ שעליו חלק נתניהו בשם חסינות ח"כ ו"כלל הצורך", ושאותו ביקשה הקואליציה ה־37 לשנות בחקיקה עד לבלימתה מחדש במליאת הכנסת ה־26 ב־18.11.2026.
 
-#### Follow-Up Leads
+#### כיווני המשך
 
-- [ ] Monitor 26th Knesset special committee hearings starting Nov 23, 2026 on repealing the AG Law ahead of its Jan 1, 2027 effective date.
+- [ ] לעקוב אחר דיוני הוועדות המיוחדות בכנסת ה־26 החל מ־23.11.2026 לביטול חוק היועמ"ש לפני מועד כניסתו לתוקף ב־1.1.2027.
 
 ---
 
-### S006 - Presidential Pardon Campaign and Legal Framework Nov 2025 to Apr 2026
+### S006 - מסע החנינה הנשיאותי והמסגרת המשפטית נובמבר 2025 עד אפריל 2026
 
-- **Type:** primary official statement + constitutional explainer + corroborated reporting
-- **Tier:** 1 / 2
-- **Issuer or Account:** Office of the President of Israel (`president.gov.il`), Israel Democracy Institute (Dr. Dana Blander, `idi.org.il`), Kan 11 (`kan.org.il`)
-- **Published:** 2025-11-30 / 2025-12-01 / 2026-03-29 / 2026-04-26
-- **Captured:** 2026-11-18
-- **Version:** official statements and corroborated reporting
-- **URL:** https://www.president.gov.il/%D7%A0%D7%A9%D7%99%D7%90-%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94-%D7%99%D7%A6%D7%97%D7%A7-%D7%94%D7%A8%D7%A6%D7%95%D7%92-%D7%91%D7%94%D7%AA%D7%99%D7%99%D7%97%D7%A1%D7%95%D7%AA-%D7%9C%D7%91%D7%A7%D7%A9/ ; https://www.idi.org.il/articles/62128 ; https://www.kan.org.il/content/kan-news/politic/1020442/ ; https://www.kan.org.il/content/kan-news/politic/1033322/
-- **Local Copy:** none
-- **Document/Docket Number:** Beit HaNassi Pardon Application File (filed 30.11.2025)
-- **Read:** full
-- **Provenance Notes:** Triangulated across official Presidential press releases, IDI constitutional analysis of Basic Law: President & Criminal Information Law 2019, and Kan 11 / NYT reporting confirmed by Beit HaNassi.
-- **Can Establish:**
-  1. Following US President Donald Trump's Nov 12, 2025 letter urging a pardon ("political, unjustified prosecution"), Netanyahu formally petitioned President Herzog on **30 Nov 2025** citing his 3-day-per-week trial burden and national reconciliation—**without admitting guilt or resigning**.
-  2. While no statute strictly mandates admission of guilt, long-standing AG guidelines following *Barzilai* (Bus 300 affair, 1986) bar pre-conviction pardons except in rare national-security "safety valve" cases where defendants admit wrongdoing and step down; the Justice Ministry Pardons Department opposed Netanyahu's request, whereas Minister Amichai Eliyahu (acting as government countersignatory designatee) recommended granting it.
-  3. On 29 Mar 2026, Beit HaNassi's legal adviser requested pre-conviction precedents from the Justice Ministry; on **26 Apr 2026**, Beit HaNassi officially confirmed (following NYT reporting) that Herzog rejected a binary pardon-or-deny path and summoned Netanyahu and AG Baharav-Miara toward a negotiated plea/settlement framework.
-- **Cannot Establish:** Exact draft settlement terms exchanged between Beit HaNassi, Netanyahu's counsel, and the AG since April 2026.
+- **סוג:** הודעה רשמית של בית הנשיא, ניתוח חוקתי ודיווח מוצלב
+- **רמת מהימנות (Tier):** 1 / 2
+- **גורם מפרסם:** בית הנשיא (`president.gov.il`), המכון הישראלי לדמוקרטיה (ד"ר דנה בלאנדר, `idi.org.il`), כאן 11 (`kan.org.il`)
+- **תאריך פרסום:** 2025-11-30 / 2025-12-01 / 2026-03-29 / 2026-04-26
+- **תאריך דגימה:** 2026-11-18
+- **גרסה:** הודעות רשמיות וסיקור מוצלב
+- **קישור (URL):** https://www.president.gov.il/%D7%A0%D7%A9%D7%99%D7%90-%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94-%D7%99%D7%A6%D7%97%D7%A7-%D7%94%D7%A8%D7%A6%D7%95%D7%92-%D7%91%D7%94%D7%AA%D7%99%D7%99%D7%97%D7%A1%D7%95%D7%AA-%D7%9C%D7%91%D7%A7%D7%A9/ ; https://www.idi.org.il/articles/62128 ; https://www.kan.org.il/content/kan-news/politic/1020442/ ; https://www.kan.org.il/content/kan-news/politic/1033322/
+- **עותק מקומי:** אין
+- **מספר תיק / מסמך:** תיק בקשת חנינה בבית הנשיא (הוגש 30.11.2025)
+- **היקף קריאה:** מלא
+- **הערות מהימנות ומקור:** הוצלב בין הודעות רשמיות של דוברות בית הנשיא, סקירת המכון הישראלי לדמוקרטיה על חוק-יסוד: נשיא המדינה והנחיות היועמ"ש, ודיווחי כאן 11 / ניו יורק טיימס שאושרו רשמית בבית הנשיא.
+- **מה המקור מוכיח:**
+  1. בעקבות מכתבו של נשיא ארה"ב דונלד טראמפ מ־12.11.2025 הקורא לחנינה ("תביעה פוליטית ובלתי מוצדקת"), הגיש נתניהו בקשת חנינה רשמית לנשיא יצחק הרצוג ב־**30.11.2025** בנימוק של עומס 3 ימי עדות בשבוע והצורך באיחוי הקרעים הלאומיים — **ללא הודאה באשמה וללא התפטרות**.
+  2. אף שאין דרישה חוקית פורמלית להודאה, הנחיות היועמ"ש שגובשו בעקבות פרשת קו 300 (פס"ד *ברזילי*) אוסרות ככלל על חנינה טרם הרשעה למעט מקרים נדירים ביותר. מחלקת החנינות במשרד המשפטים התנגדה לבקשה מטעמי שלטון החוק, הפרדת רשויות והשוויון בפני החוק, בעוד השר עמיחי אליהו (כנציג הממשלה לחתימת הקיום) המליץ לחון את נתניהו.
+  3. ב־29.3.2026 החזירה היועצת המשפטית של בית הנשיא את התיק לקבלת תקדימי קדם-הרשעה; ב־**26.4.2026** אישר בית הנשיא (לאחר פרסום הניו יורק טיימס) כי הרצוג שלל חנינה "דיכוטומית" ופועל לייצר מתווה להידברות והסכמות בין נתניהו ליועמ"שית (בכיוון הסדר טיעון/פשרה).
+- **מה המקור אינו מוכיח:** את נוסח ההצעות הקונקרטיות שהועברו מאז אפריל 2026 בין באי כוח נתניהו, בית הנשיא והיועמ"שית.
 
-#### Verbatim Extract
+#### ציטוט מילולי
 
 > "טיפול בבקשות טרם הרשעה לא יהיה אלא במקרים נדירים... חנינה במהלך משפט, שתוביל למעשה להפסקת משפט מתנהל, יש בה התערבות בעצמאות התביעה הפלילית." (ד"ר דנה בלאנדר, המכון הישראלי לדמוקרטיה, 30.11.2025)
 > "בישראל אומרים כי הנשיא יצחק הרצוג הבהיר כי לא יעניק לנתניהו חנינה 'דיכוטומית' — כלומר לא יחתום על חנינה מלאה ללא תנאים... ובבית הנשיא אישרו כי 'לפני החלטה בבקשת החנינה... הנשיא פועל בניסיון לייצר מתווה להידברות והסכמות בין הצדדים'." (כאן 11 / ניו יורק טיימס, 26.04.2026)
 
-#### Analytical Note
+#### הערה אנליטית
 
-The pardon track created a parallel political-legal off-ramp that remained unresolved through the Oct 27, 2026 Knesset elections and now intersects directly with the District Court panel's Nov 25, 2026 closed-door session with AG Baharav-Miara (S003).
+מסלול החנינה הותיר תיק פתוח בבית הנשיא גם לאחר בחירות אוקטובר 2026, והוא מתממשק כעת ישירות עם הדיון הסגור של ההרכב והיועמ"שית ב־25.11.2026 (S003) ועם שיחות האחדות בכנסת ה־26.
 
-#### Follow-Up Leads
+#### כיווני המשך
 
-- [ ] Track whether Herzog formally rules on the pending Nov 2025 pardon file or conditions it on a plea bargain / public withdrawal from premiership talks during 26th Knesset coalition negotiations.
+- [ ] לבדוק אם הרצוג מקבל החלטה סופית בתיק החנינה או מתנה אותה בהסכמה מוקדמת עם הפרקליטות ובפרישה פוליטית.
 
 ---
 
-### S007 - Bild Classified Document Leak Amended Indictment Joining Urich and Braverman Hearing
+### S007 - פרשת בילד והמסמך המסווג כתב אישום מתוקן נגד אוריך והודעת שימוע לברוורמן
 
-- **Type:** primary court/prosecution development reported verbatim
-- **Tier:** 1 / 2
-- **Issuer or Account:** Israel State Attorney (`פרקליטות המדינה`) & Tel Aviv District Court, reported by Kan 11 (`kan.org.il`) and Ynet (`ynet.co.il`)
-- **Published:** 2026-06-11
-- **Captured:** 2026-11-18
-- **Version:** amended indictment and court ruling
-- **URL:** https://www.kan.org.il/content/kan-news/politic/1051651/ ; https://www.ynet.co.il/news/article/Byl00Oku11Ml
-- **Local Copy:** none
-- **Document/Docket Number:** `מדינת ישראל נ' פלדשטיין ואח'` (Tel Aviv District Court, Judge Ala Masarwa)
-- **Read:** full
-- **Provenance Notes:** Covers both the original Nov 21, 2024 indictment against PMO spokesperson/aide Eli Feldstein and IDF reservist NCO Ari Rosenfeld and the June 11, 2026 amended indictment joining senior Netanyahu adviser **Jonatan Urich**, approved by AG Baharav-Miara and State Attorney Amit Aisman, plus May 2026 State Attorney notice regarding PMO Chief of Staff Tzachi Braverman.
-- **Can Establish:**
-  1. Urich was indicted on June 11, 2026 on four counts: transferring classified information with intent to harm state security (`מסירת ידיעה סודית בכוונה לפגוע בביטחון המדינה`), transferring classified information (`מסירת ידיעה סודית`), possessing classified information (`החזקת ידיעה סודית`), and **destruction of evidence** (`השמדת ראיה` — wiping/replacing his phone the day after Nov 2024 arrests).
-  2. On June 11, 2026, Judge Ala Masarwa denied the Prosecution's request for an immediate injunction barring Urich from the Prime Minister's Office pending a July 5 evidentiary hearing.
-  3. In May 2026, the State Attorney announced **Tzachi Braverman** is set to be indicted subject to a hearing (`בכפוף לשימוע`) for fraud and breach of trust plus obstruction of justice in connection with an alleged late-night Kirya parking-lot conversation with Feldstein about IDF Information Security (`מחב"ם`) probe awareness (citing *Zman Israel*, S008).
-  4. Prime Minister Netanyahu himself is **not** a defendant or suspect in the Bild indictment; Urich and Feldstein deny intentional security harm and argue leaks served public-diplomacy / hostage-negotiation messaging.
-- **Cannot Establish:** That Netanyahu personally ordered the classified leak or evidence destruction, absent court-admitted testimony/verdict.
+- **סוג:** רשומת כתב אישום והחלטת מעצר מדווחים מן האולם
+- **רמת מהימנות (Tier):** 1 / 2
+- **גורם מפרסם:** פרקליטות המדינה ובית המשפט המחוזי בתל אביב, בדיווחי כאן 11 (`kan.org.il`) ו־`ynet`
+- **תאריך פרסום:** 2026-06-11
+- **תאריך דגימה:** 2026-11-18
+- **גרסה:** כתב אישום מתוקן והחלטת שופט
+- **קישור (URL):** https://www.kan.org.il/content/kan-news/politic/1051651/ ; https://www.ynet.co.il/news/article/Byl00Oku11Ml
+- **עותק מקומי:** אין
+- **מספר תיק / מסמך:** `מדינת ישראל נ' פלדשטיין ואח'` (מחוזי ת"א, השופט עלאא מסארווה)
+- **היקף קריאה:** מלא
+- **הערות מהימנות ומקור:** משלים את כתב האישום המקורי מ־21.11.2024 נגד אלי פלדשטיין והנגד ארי רוזנפלד עם הגשת כתב האישום המתוקן ב־11.6.2026 שצירף את יונתן אוריך באישור היועמ"שית ופרקליט המדינה עמית איסמן, וכן הודעת הפרקליטות ממאי 2026 בעניין צחי ברוורמן.
+- **מה המקור מוכיח:**
+  1. יונתן אוריך הואשם ב־11.6.2026 בארבעה סעיפים: מסירת ידיעה סודית בכוונה לפגוע בביטחון המדינה, מסירת ידיעה סודית, החזקת ידיעה סודית ו**השמדת ראיה** (איפוס/החלפת טלפון למחרת המעצרים בנובמבר 2024).
+  2. ב־11.6.2026 דחה השופט עלאא מסארווה את בקשת הפרקליטות להטיל מגבלת עבודה מיידית האוסרת על אוריך לעבוד בלשכת רה"מ עד לדיון ראייתי ב־5.7.2026.
+  3. במאי 2026 הודיעה הפרקליטות על כוונה להעמיד לדין בכפוף לשימוע את ראש הסגל **צחי ברוורמן** בחשד למרמה והפרת אמונים ושיבוש הליכי משפט (בגין הפגישה הלילית בחניון הקריה עם פלדשטיין בנוגע לבדיקת מחב"ם, לפי הצלבה ב־S008).
+  4. ראש הממשלה נתניהו עצמו **אינו** נאשם ואינו חשוד בתיק בילד; אוריך ופלדשטיין כופרים בכוונה לפגוע בביטחון המדינה וטוענים להסברה מדינית בסוגיית החטופים.
+- **מה המקור אינו מוכיח:** שנתניהו הנחה אישית על הדלפת המסמך או השמדת ראיות, בהיעדר עדות קבילה או פסק דין הקובע זאת.
 
-#### Verbatim Extract
+#### ציטוט מילולי
 
 > הפרקליטות הגישה הבוקר (חמישי) כתב אישום מתוקן נגד יועצו הקרוב של ראש הממשלה, יונתן אוריך, בפרשת הדלפת המסמך המסווג לעיתון הגרמני "בילד" - בצירוף לעובד הלשכה אלי פלדשטיין ולנגד ארי רוזנפלד. כתב האישום, שאושר בידי היועמ"שית ופרקליט המדינה, מייחס לאוריך מסירת ידיעה סודית בכוונה לפגוע בביטחון המדינה, מסירת ידיעה סודית, החזקת ידיעה סודית והשמדת ראיה. (כאן 11 / ynet, 11.06.2026)
 
-#### Analytical Note
+#### הערה אנליטית
 
-While Urich's amended indictment marks the most advanced criminal prosecution emerging directly out of the wartime Prime Minister's Office (`פרשות לשכת נתניהו`), prosecutors stopped short of naming Netanyahu as a co-conspirator.
+צירוף אוריך לכתב האישום של פלדשטיין ורוזנפלד מהווה ההליך הפלילי המתקדם ביותר שיצא מתוך פרשות לשכת נתניהו בזמן המלחמה, אך הפרקליטות נמנעה מהגדרת נתניהו כמעורב או כחשוד.
 
-#### Follow-Up Leads
+#### כיווני המשך
 
-- [ ] Obtain outcome of Judge Ala Masarwa's July 5, 2026 bail/work-restriction hearing and Fall 2026 trial schedule for Urich–Feldstein–Rosenfeld, as well as Braverman's pre-indictment hearing (`שימוע`) decision.
+- [ ] לברר את תוצאות דיון 5.7.2026 אצל השופט מסארווה, מועדי ההוכחות בסתיו 2026 והחלטת השימוע בעניין ברוורמן.
 
 ---
 
-### S008 - Qatargate Influence Probe 2024 to Oct 2026 and HCJ Ronen Bar Ruling May 21 2025
+### S008 - פרשת קטארגייט ופסק דין בגץ בעניין פיטורי ראש השבכ רונן בר
 
-- **Type:** primary High Court judgment extract + investigative synthesis
-- **Tier:** 1 / 2
-- **Issuer or Account:** Supreme Court (`בג"ץ`), reported verbatim by Ynet (`ynet.co.il`); investigative chronology by *Zman Israel* (`zman.co.il`)
-- **Published:** 2025-05-21 (HCJ ruling), 2026-09-23 updated 2026-10-19 (*Zman Israel*)
-- **Captured:** 2026-11-18
-- **Version:** final HCJ ruling + updated investigative dossier
-- **URL:** https://www.ynet.co.il/news/article/syqrsdiwgg ; https://www.zman.co.il/726360/
-- **Local Copy:** none
-- **Document/Docket Number:** HCJ Ronen Bar dismissal judgment (21.5.2025)
-- **Read:** full (`ynet syqrsdiwgg`), partial (`zman 726360` Sections 1–3 with Oct 14 & Oct 19, 2026 updates)
-- **Provenance Notes:** Verbatim quotes from HCJ Chief Justice Isaac Amit and Justice Daphne Barak-Eraz (majority) vs. Deputy President Noam Sohlberg (dissent) in Ynet; *Zman Israel* combines police filings, Channel 12/13 leaks, and civil-suit disclosures.
-- **Can Establish:**
-  1. Exposed in Nov 2024 (*Haaretz*), the Qatargate probe investigates whether senior Netanyahu aides/strategists (**Jonatan Urich**, **Eli Feldstein**, **Srulik Einhorn**, and **Tzachi Braverman**) accepted Qatari-linked funding (via US lobbyist Jay Footlik / Perception / Gulf channels) to burnish Qatar's image and undercut Egypt as Gaza mediator during wartime while inside or closely advising the PMO.
-  2. Netanyahu himself gave ~1 hour of **open testimony** on **31 March 2025** and is explicitly **not a suspect**.
-  3. On **21 May 2025**, an HCJ majority (Chief Justice Isaac Amit and Justice Daphne Barak-Eraz, Deputy President Noam Sohlberg dissenting in part) ruled Netanyahu's dismissal of Shin Bet Director Ronen Bar unlawful in part because Bar was overseeing ongoing Shin Bet–Police probes of Netanyahu's aides (Bild and Qatargate), placing Netanyahu in an acute personal and political **conflict of interest**; the ruling subsequently constrained successor Shin Bet Director David Zini and Mossad Director Roman Gofman from overseeing Qatargate due to appointment-recusal conflicts.
-  4. Investigative developments through Oct 2026: Einhorn questioned in Belgrade (July 22–24, 2025) under Serbia/Israel coordination; police transferred file to Prosecution in Jan 2026 while Footlik's US questioning hit DOJ delays; Sept 2026 Channel 13 reported a Mossad opinion viewing security damage as "marginal" while Prosecution still weighed a draft indictment focused on contact with a foreign agent (`מגע עם סוכן חוץ`); Oct 2026 updates revealed Urich's Sept 2024 ChatGPT drafting prompts on Hamas/hostage messaging and July 2024 Europe/Berlin meetings with Ali al-Thawadi, Footlik, and Einhorn; on Oct 14, 2026 Ronen Bar filed a NIS 3M defamation suit over PMO counter-claims.
-- **Cannot Establish:** Criminal liability of Urich, Feldstein, Einhorn, or Braverman in Qatargate; **no indictment has been filed** in Qatargate as of Nov 18, 2026, and Netanyahu denies any knowledge of Qatari payments to aides.
+- **סוג:** תמצית מילולית של פסק דין בג"ץ וסינתזת תחקיר עיתונאי
+- **רמת מהימנות (Tier):** 1 / 2
+- **גורם מפרסם:** בית המשפט העליון בשבתו כבג"ץ (בדיווח `ynet`); כרונולוגיית תחקיר באתר "זמן ישראל" (`zman.co.il`)
+- **תאריך פרסום:** 2025-05-21 (פסק דין בג"ץ); 2026-09-23 עם עדכון מיום 2026-10-19 ("זמן ישראל")
+- **תאריך דגימה:** 2026-11-18
+- **גרסה:** פסק דין חלוט וסקירה מעודכנת
+- **קישור (URL):** https://www.ynet.co.il/news/article/syqrsdiwgg ; https://www.zman.co.il/726360/
+- **עותק מקומי:** אין
+- **מספר תיק / מסמך:** פסק דין בג"ץ בעניין פיטורי ראש השב"כ (21.5.2025)
+- **היקף קריאה:** מלא (`ynet syqrsdiwgg`), חלקי (`zman 726360` פרקים 1–3 עם עדכוני 14 ו־19 באוקטובר 2026)
+- **הערות מהימנות ומקור:** ציטוט מילולי מפסק דין הרוב של הנשיא יצחק עמית והשופטת דפנה ברק-ארז (מול דעת המיעוט החלקית של המשנה לנשיא נעם סולברג) ב־`ynet`; סקירת "זמן ישראל" מרכזת מסמכי חקירה, הדלפות ערוצים 12/13 וכתבי תביעה אזרחיים.
+- **מה המקור מוכיח:**
+  1. פרשת "קטארגייט" שנחשפה בנובמבר 2024 ("הארץ") בודקת האם יועצי נתניהו (**יונתן אוריך**, **אלי פלדשטיין**, **שרוליק איינהורן** ו**צחי ברוורמן**) קיבלו מימון ממקורות קטאריים (דרך הלוביסט האמריקאי ג'יי פוטליק / חברת Perception / ערוצים במפרץ) לקידום תדמיתה של קטאר ולפגיעה במעמד מצרים בתיווך המלחמה תוך פעילות בלשכת רה"מ או בסביבתה.
+  2. נתניהו עצמו מסר **עדות פתוחה** בת כשעה ב־**31.3.2025** ו**אינו חשוד** בתיק.
+  3. ב־**21.5.2025** קבע הרוב בבג"ץ (עמית וברק-ארז) שפיטורי ראש השב"כ רונן בר נעשו שלא כדין, בין היתר משום שנתניהו פעל ב**ניגוד עניינים** חריף בשל חקירות השב"כ והמשטרה נגד מקורביו ב*קטארגייט* וב*בילד*; בעקבות זאת הוטלו מגבלות ניגוד עניינים גם על מחליפו דוד זיני ועל ראש המוסד רומן גופמן.
+  4. התפתחויות עד אוקטובר 2026: איינהורן נחקר בבלגרד (22–24.7.2025) בצו איסור פרסום חלקי; המשטרה העבירה את התיק לפרקליטות בינואר 2026 בעוד גביית עדות פוטליק בארה"ב התעכבה במשרד המשפטים האמריקאי; בספטמבר 2026 דווח בחדשות 13 כי המוסד העריך שהנזק הביטחוני מהפרשה "שולי", אך הפרקליטות שקלה טיוטת כתב אישום המתמקדת בעבירת **מגע עם סוכן חוץ**; בעדכוני אוקטובר 2026 נחשפו הנחיות ChatGPT של אוריך מספטמבר 2024 ופגישות אירופה/ברלין מיולי 2024 עם עלי א-תוואדי, פוטליק ואיינהורן; ב־14.10.2026 הגיש רונן בר תביעת לשון הרע בסך 3 מיליון ש"ח נגד סביבת רה"מ.
+- **מה המקור אינו מוכיח:** אשמה פלילית של אוריך, פלדשטיין, איינהורן או ברוורמן בקטארגייט; נכון ל־18.11.2026 **לא הוגש כתב אישום** בפרשה, ונתניהו מכחיש כל ידיעה על תשלומים קטאריים ליועציו.
 
-#### Verbatim Extract
+#### ציטוט מילולי
 
 > "ראש הממשלה פעל בניגוד עניינים... החקירות בפרשת 'קטארגייט' ובפרשת הדלפת המסמכים מהוות פוטנציאל לנזק פוליטי ותדמיתי חריף לראש הממשלה ולאנשיו הקרובים ביותר." (נשיא ביהמ"ש העליון יצחק עמית, פסק הדין בפרשת פיטורי ראש השב"כ רונן בר, 21.05.2025, ynet)
 
-#### Analytical Note
+#### הערה אנליטית
 
-Qatargate operates politically even without an indictment: it gave the Supreme Court its doctrinal basis on May 21, 2025 to treat investigations of *unindicted/non-target aides* as triggering a legally cognizable conflict of interest for the Prime Minister over security-agency heads—a precedent directly echoed in the 26th Knesset debate over Shin Bet chief David Zini and Election Day police probes (cross-ref `israel-2026-government-formation`).
+פרשת קטארגייט יוצרת השלכה חוקתית גם ללא כתב אישום: פסיקת בג"ץ מ־21.5.2025 קיבעה את העיקרון שלפיו חקירה פלילית נגד יועצים קרובים מולידה לראש הממשלה ניגוד עניינים מחייב ביחס לראשי זרועות הביטחון ואכיפת החוק.
 
-#### Follow-Up Leads
+#### כיווני המשך
 
-- [ ] Monitor State Attorney decision on whether to file Qatargate indictments (especially `מגע עם סוכן חוץ` vs. bribery/breach of trust) and track US DOJ mutual legal assistance on Jay Footlik.
+- [ ] לעקוב אחר החלטת הפרקליטות באשר להגשת כתבי אישום בקטארגייט (בדגש על סעיף מגע עם סוכן חוץ מול שוחד/מרמה) ואחר חיקור הדין בארה"ב בעניין ג'יי פוטליק.
 
 ---
 
-### S009 - Protocol Tampering Affair and Chani Blieweiss Witness Harassment Probe
+### S009 - פרשת שינוי הפרוטוקולים ופרשת חני בליוויס הטרדת עדים
 
-- **Type:** corroborated investigative reporting and official police confirmations
-- **Tier:** 2
-- **Issuer or Account:** Kan 11 (`kan.org.il`, Roi Yanovsky) and Ynet (`ynet.co.il`, Netael Bandel & Roi Rubinstein); The7Eye / Walla / Maariv on Blieweiss
-- **Published:** 2026-10-08 / 2026-10-10 (Protocols); 2024-12-23 – 2025-02 (Blieweiss)
-- **Captured:** 2026-11-18
-- **Version:** final reports
-- **URL:** https://www.kan.org.il/content/kan-news/politic/1107933/ ; https://www.ynet.co.il/news/article/bj7ux00rjze ; https://www.the7eye.org.il/topic/%D7%97%D7%A0%D7%99-%D7%91%D7%9C%D7%99%D7%99%D7%95%D7%95%D7%99%D7%A1
-- **Local Copy:** none
-- **Document/Docket Number:** Not shown (Police Lahav 433 investigative files)
-- **Read:** full (`kan 1107933`, `ynet bj7ux00rjze`), partial (Blieweiss coverage summary)
-- **Provenance Notes:** Confirms Nov 2024 interrogation under caution of PMO Chief of Staff Tzachi Braverman alongside October 2026 public on-record interview of former Military Secretary Maj. Gen. (res.) Avi Gil on Channel 12 (*Uvda*/news) and Ynet.
-- **Can Establish:**
-  1. **Protocol Tampering (`פרשת שינוי הפרוטוקולים`):** Braverman was questioned under caution in Nov 2024 over altering by hand the recorded time of an Oct 7, 2023 morning encrypted phone call between Netanyahu and his Military Secretary Avi Gil—changing `06:40` to `06:29` in a transcript reviewed ~3 months later (Jan 2024). Gil publicly stated in Oct 2026 that the actual call occurred at 06:40 (with the Military Secretary updating him at 06:29 prior to the call with the PM), while Braverman and PMO spokespeople contended it was a technical clerical correction rather than falsification. As of Oct 2026, the file remained awaiting AG decision for over a year.
-  2. **Chani Blieweiss / Witness Harassment (`פרשת חני בליוויס`):** Following *Uvda*'s Dec 19, 2024 broadcast of WhatsApp messages from late PMO office manager Chani Blieweiss allegedly showing Sara Netanyahu instructing campaigns against Trial 1000/4000 witnesses (Hadas Klein) and prosecutors/AGs (Liat Ben-Ari, Mandelblit), the AG ordered a probe in late Dec 2024 / Jan 2025 focusing on Blieweiss's seized phones and questioning 3 Blieweiss relatives under caution for obstruction—yet police subsequently recommended closing the probe against Sara Netanyahu without interrogating her. (Separately, at least four Likud activists/supporters were convicted or pleaded guilty in 2024–2025 for harassing witness Hadas Klein, and trials against Eli Zipori and Avi Weiss continue.)
-- **Cannot Establish:** Criminal intent by Benjamin Netanyahu in either episode; both Protocol Tampering (on Braverman) and Election Day Rahat raids (`israel-2026-government-formation` S008, probing PMO Chief of Staff Ido Norden's referral of an ex-aide before warrantless Nov 2026 raids) remain unindicted as of Nov 18, 2026.
+- **סוג:** תחקיר וראיון עיתונאי מוצלב ודיווחי חקירת משטרה
+- **רמת מהימנות (Tier):** 2
+- **גורם מפרסם:** כאן 11 (`kan.org.il`, רועי ינובסקי) ו־`ynet` (נטעאל בנדל ורועי רובינשטיין); דיווחי "העין השביעית" / וואלה / מעריב בפרשת בליוויס
+- **תאריך פרסום:** 2026-10-08 / 2026-10-10 (פרוטוקולים); 2024-12-23 – 2025-02 (בליוויס)
+- **תאריך דגימה:** 2026-11-18
+- **גרסה:** פרסום סופי
+- **קישור (URL):** https://www.kan.org.il/content/kan-news/politic/1107933/ ; https://www.ynet.co.il/news/article/bj7ux00rjze ; https://www.the7eye.org.il/topic/%D7%97%D7%A0%D7%99-%D7%91%D7%9C%D7%99%D7%99%D7%95%D7%95%D7%99%D7%A1
+- **עותק מקומי:** אין
+- **מספר תיק / מסמך:** תיקי להב 433 פתוחים / תלויים להחלטת יועמ"שית
+- **היקף קריאה:** מלא (`kan 1107933`, `ynet bj7ux00rjze`), חלקי (סיקור פרשת בליוויס)
+- **הערות מהימנות ומקור:** מצליב את חקירת האזהרה של צחי ברוורמן מנובמבר 2024 מול ראיונותיו הפומביים באוקטובר 2026 של המזכיר הצבאי לשעבר אלוף (מיל') אבי גיל בחדשות 12 וב־`ynet`.
+- **מה המקור מוכיח:**
+  1. **פרשת שינוי הפרוטוקולים:** ברוורמן נחקר באזהרה בנובמבר 2024 בחשד לשינוי בכתב יד של שעת השיחה המוצפנת בין נתניהו למזכיר הצבאי אבי גיל בבוקר 7 באוקטובר 2023 — משעה `06:40` ל־`06:29` — בתמלול שנבדק בינואר 2024. אבי גיל אישר פומבית באוקטובר 2026 שהשיחה עם רה"מ התקיימה ב־06:40 (ושב־06:29 הוא רק עודכן קודם לכן), בעוד ברוורמן ולשכת רה"מ טענו שמדובר בתיקון טכני-פקידותי שגוי ולא בזיוף מכוון. התיק ממתין להחלטת היועמ"שית מעל שנה.
+  2. **פרשת חני בליוויס / הטרדת עדים:** בעקבות תחקיר "עובדה" (19.12.2024) שחשף התכתבויות ממכשירי ראש הלשכה המנוחה חני בליוויס שלכאורה הצביעו על הנחיות מצד שרה נתניהו להכפשת הדס קליין, מנדלבליט וליאת בן ארי, הורתה היועמ"שית על חקירה ו־3 מקרובי משפחת בליוויס נחקרו באזהרה בחשד לשיבוש, אך בהמשך המליצה המשטרה לסגור את החקירה נגד שרה נתניהו בלי לחקור אותה. בנפרד הורשעו ב־2024–2025 לפחות ארבעה פעילי ליכוד/תומכים בהטרדת העדה הדס קליין (ועדיין מתנהלים הליכים נגד אלי ציפורי ואבי וייס).
+- **מה המקור אינו מוכיח:** אחריות פלילית של בנימין נתניהו בשתי הפרשות, וכן בפרשת הפשיטות ברהט ביום הבחירות (`israel-2026-government-formation` S008 — תחקיר "עובדה" מ־15.11.2026 שבו אישר ראש הסגל עדו נורדן כי הפנה עוזר לשעבר למשטרה טרם פשיטות ללא צו).
 
-#### Verbatim Extract
+#### ציטוט מילולי
 
 > "המזכיר הצבאי לשעבר, האלוף במיל' אבי גיל, התראיין הערב... וסיפר כי ראש הסגל בלשכת ראש הממשלה צחי ברוורמן שינה בכתב יד את שעת השיחה המוצפנת בינו לבין נתניהו בבוקר 7 באוקטובר מ-06:40 ל-06:29... התיק ממתין כבר יותר משנה להחלטת היועצת המשפטית לממשלה." (כאן 11 / ynet, 8–10.10.2026)
 
-#### Analytical Note
+#### הערה אנליטית
 
-Together with Bild (S007), Qatargate (S008), and the Nov 2026 Rahat police-raid referral (*Uvda*), these files reveal a consistent structural pattern: investigations cluster around consecutive PMO Chiefs of Staff and close political aides (Braverman, Urich, Blieweiss, Norden) managing wartime records, intelligence leaks, media influence, or electoral mobilization, with Netanyahu himself positioned outside criminal suspect status in every wartime security file.
+בצירוף פרשת *בילד* (S007), *קטארגייט* (S008) ופרשת רהט (נובמבר 2026), ניכר דפוס מבני חוזר: החקירות מתנקזות אל שדרת ראשי הסגל והיועצים הפוליטיים הקרובים (ברוורמן, אוריך, בליוויס, נורדן) סביב ניהול מסמכי מלחמה, הדלפות, קמפיינים ופעילות בחירות, שעה שנתניהו עצמו אינו מוגדר חשוד פלילי באף אחד מהתיקים הביטחוניים הללו.
 
-#### Follow-Up Leads
+#### כיווני המשך
 
-- [ ] Track whether AG Baharav-Miara closes or indicts Braverman in the Protocol Tampering file, and track Police/AG follow-up on the Nov 15, 2026 *Uvda* Rahat police-raids referral.
+- [ ] לעקוב אחר החלטת היועמ"שית בתיק שינוי הפרוטוקולים של ברוורמן ואחר בדיקת פשיטות רהט מיום הבחירות 2026.
 
 ---
 
-### S010 - Vessels State Commission of Inquiry Case 3000 Procurement 2022 to Oct 2026
+### S010 - ועדת החקירה הממלכתית לעניין כלי השיט תיק 3000 2022 עד אוקטובר 2026
 
-- **Type:** primary official commission records and corroborated portal updates
-- **Tier:** 1 / 2
-- **Issuer or Account:** State Commission of Inquiry into Naval Vessels (`ועדת החקירה הממלכתית לעניין כלי השיט`, `gov.il/he/departments/vessels-state-commission-of-inquiry`), Israel Hayom (`israelhayom.co.il`), Ynet (`ynet.co.il`)
-- **Published:** 2024-06-24 / 2025-09-07 / 2026-01-25 / 2026-10-21 / 2026-10-25
-- **Captured:** 2026-11-18
-- **Version:** official decisions and portal releases
-- **URL:** https://www.gov.il/he/departments/vessels-state-commission-of-inquiry ; https://www.gov.il/BlobFolder/news/decision_070925/he/decisionSC.pdf ; https://www.israelhayom.co.il/news/law/article/15962036 ; https://www.ynet.co.il/news/article/sktxjdo2gx
-- **Local Copy:** none (`gov.il` blocked to `curl` via Cloudflare HTTP 403; official portal and `decisionSC.pdf` read via live `google:browse`)
-- **Document/Docket Number:** Gov. Resolution `1019` (23.1.2022), `בג"ץ 26835-04-25` (*Netanyahu et al. v. Commission*), Section 15 Decisions (24.6.2024 & 7.9.2025)
-- **Read:** full (portal), partial (`decisionSC.pdf` pp. 1–11 prior to truncation)
-- **Provenance Notes:** Established under the Commissions of Inquiry Law 1968 to examine *processes* (2009–2016 purchases of Sa'ar 6 ships, Submarines 6–9, anti-submarine vessels, shipyard privatization, and consent to German submarine sales to Egypt), explicitly barred from trying criminal defendants in `ת"פ 18778-05-21` (*State v. Ganor et al.*). Heard 41 witnesses and 124 interviewees.
-- **Can Establish:**
-  1. On **24 June 2024**, the Commission issued Section 15 warning letters (`הודעות אזהרה`) to 5 figures: **PM Benjamin Netanyahu**, former DM Moshe (Bogie) Ya'alon, former NSC/Mossad chief Yossi Cohen, former Navy commander Vice Adm. (res.) Ram Rothberg, and former NSC official Avner Simhoni—specifically alleging Netanyahu bypassed Defense Ministry/IDF channels via the NSC, pushed submarine/vessel acquisitions without budget/operational review, handled Egyptian submarine sales in chaotic uncoordinated channels, and thereby **"endangered state security"** (`סיכן את ביטחון המדינה`) and caused multi-billion NIS bargaining/economic losses. Netanyahu rejected the warning, asserting submarines are essential strategic deterrence against Iran.
-  2. After Netanyahu and warned parties petitioned HCJ (`בג"ץ 26835-04-25`, triggering an April 10, 2025 interim stay), the Commission published an expanded unclassified **7 September 2025** §15 factual summary (`decisionSC.pdf`), submitted a **Systemic Report (`דו"ח מערכתי`)** on **25 January 2026**, and issued its witness schedule on **21 October 2026** for November–December 2026 §15 evidentiary hearings.
-  3. On **23–25 October 2026**, founding Chair **Asher Grunis** retired for medical reasons and Supreme Court Justice (ret.) **Zvi Zylbertal** was appointed Commission Chair alongside new member **Ruth Lorch** (preserving full institutional continuity with Karnit Flug, Gideon Frank, and Yaakov Bortman).
-- **Cannot Establish:** Final §15 conclusions or personal recommendations (public hearings for warned parties run Nov–Dec 2026 before final report drafting).
+- **סוג:** רשומות רשמיות של ועדת חקירה ממלכתית ודיווחי עדכון מוסדיים
+- **רמת מהימנות (Tier):** 1 / 2
+- **גורם מפרסם:** ועדת החקירה הממלכתית לעניין כלי השיט (`gov.il/he/departments/vessels-state-commission-of-inquiry`), "ישראל היום", `ynet`
+- **תאריך פרסום:** 2024-06-24 / 2025-09-07 / 2026-01-25 / 2026-10-21 / 2026-10-25
+- **תאריך דגימה:** 2026-11-18
+- **גרסה:** החלטות רשמיות והודעות פורטל
+- **קישור (URL):** https://www.gov.il/he/departments/vessels-state-commission-of-inquiry ; https://www.gov.il/BlobFolder/news/decision_070925/he/decisionSC.pdf ; https://www.israelhayom.co.il/news/law/article/15962036 ; https://www.ynet.co.il/news/article/sktxjdo2gx
+- **עותק מקומי:** אין (קובצי `gov.il` נחסמים ל־`curl` ב־Cloudflare 403; פורטל הוועדה ומסמך `decisionSC.pdf` נקראו דרך דפדפן)
+- **מספר תיק / מסמך:** החלטת ממשלה `1019` (23.1.2022), `בג"ץ 26835-04-25` (*נתניהו ואח' נ' הוועדה*), החלטות אזהרה לפי סעיף 15 (24.6.2024 ו־7.9.2025)
+- **היקף קריאה:** מלא (דף הפורטל), חלקי (`decisionSC.pdf` עמ' 1–11)
+- **הערות מהימנות ומקור:** הוקמה מכוח חוק ועדות חקירה, תשכ"ט-1968, לבדיקת *תהליכי העבודה וקבלת ההחלטות* ברכש סער 6, צוללות 6–9, ספינות נגד צוללות, הפרטת המספנות והסכמה למכר צוללות לצד ג' בשנים 2009–2016, תוך החרגה מפורשת של עיסוק בנאשמים פליליים בהליך `ת"פ 18778-05-21` (*מדינת ישראל נ' גנור ואח'*). הוועדה שמעה 41 עדים ו־124 מרואיינים.
+- **מה המקור מוכיח:**
+  1. ב־**24.6.2024** שלחה הוועדה הודעות אזהרה לפי סעיף 15 לחמישה אישים: **ראש הממשלה בנימין נתניהו**, שר הביטחון לשעבר משה (בוגי) יעלון, ראש המל"ל והמוסד לשעבר יוסי כהן, מפקד חיל הים לשעבר האלוף רם רוטברג ואבנר שמחוני. ביחס לנתניהו קבעה האזהרה כי עקף את מערכת הביטחון באמצעות המל"ל, קידם רכש צוללות ושינה מדיניות מול גרמניה ומצרים בערוצים כאוטיים תוך פגיעה במוכנות ובכוח המיקוח, ו**"בכך סיכן את ביטחון המדינה"** וגרם להפסד המוערך במיליארדי ש"ח. לשכת רה"מ דחתה את הדברים וקבעה כי הצוללות הן עוגן ביטחוני קיומי מול איראן.
+  2. לאחר עתירת נתניהו והמוזהרים לבג"ץ (`בג"ץ 26835-04-25`, צו ארעי מ־10.4.2025), פרסמה הוועדה ב־**7.9.2025** תיאור מפורט של הממצאים לכאורה (`decisionSC.pdf`), הגישה **דו"ח מערכתי** לממשלה ב־**25.1.2026**, ופרסמה ב־**21.10.2026** רשימת זימונים לדיוני ההוכחות של המוזהרים בנובמבר–דצמבר 2026.
+  3. ב־**23–25 באוקטובר 2026** פרש יו"ר הוועדה אשר גרוניס מסיבות רפואיות, ושופט העליון בדימוס **צבי זילברטל** מונה ליו"ר במקומו (לצד מינוי השופטת רות לורך כחברה, עם קרנית פלוג, גדעון פרנק ויעקב בורטמן).
+- **מה המקור אינו מוכיח:** ממצאים סופיים או המלצות אישיות סופיות (שיגובשו רק לאחר השלמת שמיעת טענות המוזהרים בנובמבר–דצמבר 2026).
 
-#### Verbatim Extract
+#### ציטוט מילולי
 
 > "התנהלותו של מר נתניהו בנושאים הנחקרים על ידי הוועדה הובילה לשיבוש עמוק ושיטתי בתהליכי עבודה ובניין הכח ולפגיעה במנגנוני קבלת החלטות השורה של סוגיות רגישות. בכך סיכן את ביטחון המדינה ופגע ביחסי החוץ ובאינטרסים כלכליים של מדינת ישראל." (הודעת אזהרה לפי סעיף 15, ועדת החקירה הממלכתית לעניין כלי השיט, 24.06.2024, ישראל היום)
 > "רה"מ נתניהו קובע שהצוללות הן יסוד מרכזי בביטחון הלאומי של ישראל ובהבטחת קיומה נגד איראן שמנסה להשמידנו... ההיסטוריה תוכיח שגם בנושא הזה ראש הממשלה נתניהו צדק..." (תגובת לשכת רה"מ, 24.06.2024)
 
-#### Analytical Note
+#### הערה אנליטית
 
-Unlike the 2020 criminal closure of Netanyahu personally in Case 3000 (S011), the Zylbertal Commission places the sharpest formal institutional finding on record against Netanyahu's decision-making governance—and its Nov–Dec 2026 §15 phase creates a critical institutional precedent ahead of any future Oct 7 State Commission of Inquiry demanded by the 26th Knesset Change Bloc.
+בניגוד לסגירת החשד הפלילי נגד נתניהו אישית בתיק 3000 באוקטובר 2020 (S011), הליך ועדת זילברטל מציב את החיווי המוסדי החריף ביותר נגד אופן קבלת ההחלטות הביטחוניות תחתיו — ומעצב תקדים מרכזי לקראת כל הכרעה על הקמת ועדת חקירה ממלכתית לאירועי 7 באוקטובר בכנסת ה־26.
 
-#### Follow-Up Leads
+#### כיווני המשך
 
-- [ ] Track Nov–Dec 2026 §15 cross-examinations under Chair Zvi Zylbertal and Netanyahu's defense witness appearances.
+- [ ] לעקוב אחר דיוני העדויות לפי סעיף 15 בראשות צבי זילברטל בנובמבר–דצמבר 2026.
 
 ---
 
-### S011 - Meron State Commission Report March 2024 and Criminal Closures of Stock and Case 3000 Oct 2020
+### S011 - דוח ועדת מירון מרץ 2024 וסגירת תיק המניות ותיק 3000 הפלילי אוקטובר 2020
 
-- **Type:** primary commission summary analysis and primary AG announcement reporting
-- **Tier:** 1 / 2
-- **Issuer or Account:** Israel Democracy Institute (`idi.org.il`, Meron Commission analysis); Kan 11 (`kan.org.il`, AG Mandelblit closure announcement)
-- **Published:** 2024-03-08 (Meron); 2020-10-05 / 2020-10-15 (Case 3000 & Stock affair)
-- **Captured:** 2026-11-18
-- **Version:** final
-- **URL:** https://www.idi.org.il/articles/53309 ; https://www.kan.org.il/content/kan-news/politic/288751/
-- **Local Copy:** none
-- **Document/Docket Number:** Meron State Commission Final Report (6.3.2024); AG Mandelblit Case 3000 / Stock Decision (Oct 2020)
-- **Read:** full
-- **Provenance Notes:** IDI summarizes the March 6, 2024 Mount Meron State Commission report (45 fatalities, April 2021); Kan 11 documents AG Mandelblit's Oct 2020 closure of criminal probes against Netanyahu in both Case 3000 and the Nathan Milikowsky stock-sale affair.
-- **Can Establish:**
-  1. **Meron Commission (6 Mar 2024):** Determined that Benjamin Netanyahu bears **personal responsibility** for the Mount Meron disaster ("knew or ought to have known" of chronic overcrowding/safety hazards over more than a decade as PM), yet deliberately **refrained from recommending an operative sanction** because of the Prime Minister's unique elected status accountable to voters/Knesset (while recommending personal sanctions against others, including Amir Ohana and Kobi Shabtai).
-  2. **Stock Affair & Case 3000 Criminal Closure (Oct 2020):** AG Mandelblit closed the criminal inquiry into Netanyahu's 2010 sale of SeaDrift/NMC shares to cousin Nathan Milikowsky (yielding ~NIS 16M gross, ~NIS 8M net profit after buying at a substantial discount) finding insufficient evidence of criminal bribery/conflict beyond statute/civil bounds, and formally reiterated that **Netanyahu was not a criminal suspect in Case 3000** (Submarines—where Miki Ganor, Avriel Bar-Yosef, Eli Marom, David Shimron, and Eliezer Sandberg faced charges/pleas).
-- **Cannot Establish:** That non-criminal State Commission personal responsibility (Meron) carries automatic statutory disqualification.
+- **סוג:** ניתוח מוסדי של דו"ח ועדת חקירה ממלכתית ודיווח רשמי על החלטת יועמ"ש
+- **רמת מהימנות (Tier):** 1 / 2
+- **גורם מפרסם:** המכון הישראלי לדמוקרטיה (`idi.org.il`); כאן 11 (`kan.org.il`)
+- **תאריך פרסום:** 2024-03-08 (מירון); 2020-10-05 / 2020-10-15 (סגירת תיק המניות ו־3000)
+- **תאריך דגימה:** 2026-11-18
+- **גרסה:** פרסום סופי
+- **קישור (URL):** https://www.idi.org.il/articles/53309 ; https://www.kan.org.il/content/kan-news/politic/288751/
+- **עותק מקומי:** אין
+- **מספר תיק / מסמך:** הדו"ח הסופי של ועדת מירון (6.3.2024); החלטות היועמ"ש מנדלבליט (אוקטובר 2020)
+- **היקף קריאה:** מלא
+- **הערות מהימנות ומקור:** סיכום משפטי של המכון הישראלי לדמוקרטיה בעקבות דו"ח ועדת החקירה לאסון הר מירון (45 הרוגים, אפריל 2021), ודיווח כאן 11 על החלטות הסגירה של מנדלבליט.
+- **מה המקור מוכיח:**
+  1. **ועדת מירון (6.3.2024):** קבעה שלבנימין נתניהו יש **אחריות אישית** לאסון ("ידע או צריך היה לדעת" על הסכנות המתמשכות באתר הר מירון לאורך למעלה מעשור כרה"מ), אך **נמנעה מהמלצה על סנקציה אופרטיבית** בשל מעמדו המיוחד של ראש הממשלה כנבחר הציבור הבכיר העומד למבחן הבוחרים והכנסת (בשונה מהמלצות אישיות נגד אמיר אוחנה וקובי שבתאי).
+  2. **סגירת פרשת המניות ותיק 3000 (אוקטובר 2020):** היועמ"ש מנדלבליט סגר את הבדיקה/חקירה הפלילית נגד נתניהו בפרשת מכירת מניות SeaDrift/NMC לבן דודו נתן מיליקובסקי בשנת 2010 (מכירה בהיקף של כ־16 מיליון ש"ח ברוטו / כ־8 מיליון ש"ח רווח נקי) מחוסר תשתית לפלילים מעבר להיבטי התיישנות וגילוי הון, ואישר שנתניהו **אינו חשוד פלילית בתיק 3000** (פרשת הצוללות שבה הועמדו לדין גנור, בר-יוסף, מרום, שמרון וזנדברג).
+- **מה המקור אינו מוכיח:** שקביעת אחריות אישית בוועדת חקירה ממלכתית (מירון) יוצרת פסילה חוקית אוטומטית.
 
-#### Verbatim Extract
+#### ציטוט מילולי
 
 > "ועדת החקירה הממלכתית לאסון מירון (6.3.2024) קבעה כי לראש הממשלה בנימין נתניהו יש אחריות אישית לאסון... אך נמנעה מלהמליץ על סנקציה אופרטיבית כלפיו נוכח מעמדו המיוחד כנבחר ציבור הבכיר ביותר." (המכון הישראלי לדמוקרטיה, 08.03.2024)
 > "היועץ המשפטי לממשלה אביחי מנדלבליט הודיע על סגירת החקירה הפלילית נגד נתניהו בפרשת המניות (מכירת מניות ב-16 מיליון שקל לבן דודו נתן מיליקובסקי) וכן בפרשת הצוללות (תיק 3000)." (כאן 11, אוקטובר 2020)
 
-#### Analytical Note
+#### הערה אנליטית
 
-Meron illustrates the structural boundary between public-administrative accountability and criminal/legal removal in Israel: even an explicit State Commission finding of personal responsibility over fatal safety neglect did not trigger legal disqualification, leaving enforcement entirely to political coalitions and elections—a direct precedent informing both the Vessels Commission (S010) and any Oct 7 commission.
+דו"ח מירון מחדד את הגבול שבין אחריות ציבורית-ממלכתית לבין אכיפה משפטית: גם קביעה מפורשת של אחריות אישית לאסון קטלני לא הניבה המלצת הדחה משפטית, והותירה את ההכרעה בזירה הפוליטית והאלקטורלית.
 
-#### Follow-Up Leads
+#### כיווני המשך
 
-- [ ] Archive direct PDF text of the March 6, 2024 Meron Commission personal-responsibility chapter on Netanyahu via `gov.il` browser capture.
+- [ ] לארכב את פרק האחריות האישית המלא של נתניהו מדו"ח ועדת מירון מ־6.3.2024.
 
 ---
 
-### S012 - Pre-2016 Historical Investigations Roots 1997 to 2016
+### S012 - שורשי החקירות טרם 2016 בר און חברון 1997 עמדי והמתנות 1999 2000 וביביטורס 2011 2016
 
-- **Type:** investigative chronological consolidation and corroborated public legal history
-- **Tier:** 2 / 3
-- **Issuer or Account:** *Zman Israel* (`zman.co.il/68629/`)
-- **Published:** 2019-12-27
-- **Captured:** 2026-11-18
-- **Version:** final overview
-- **URL:** https://www.zman.co.il/68629/
-- **Local Copy:** none
-- **Document/Docket Number:** Historic AG closure memos (1997 Bar-On–Hebron; 2000 Amadi/Gifts; 2016 Bibitours)
-- **Read:** full (historical affairs section)
-- **Provenance Notes:** Written in satirical television-series framing ("The Netanyahus"), so editorial tone is stripped; factual affair chronologies are used only for baseline historical continuity and cross-checked against standard legal history.
-- **Can Establish:** Prior to the 2016–2019 "1000/2000/4000" indictments, three major police inquiries examined Netanyahu's first premiership and post-1999 travel/finances and all ended without charges against him:
-  1. **Bar-On–Hebron Affair (1997):** Police recommended prosecuting Netanyahu over the abortive appointment of Roni Bar-On as AG allegedly linked to Shas support for the Hebron Agreement; State Attorney Edna Arbel favored indictment, but AG Elyakim Rubinstein closed the file (April 1997) for insufficient proof of Netanyahu's personal awareness of the alleged criminal conspiracy—prompting the Shamgar Commission on AG appointment reforms.
-  2. **Amadi / Contractor & Official Gifts Affairs (1999–2000):** Police raided the Netanyahus' private residence (confiscating ~700 official gifts) and investigated NIS 440,000 in state billing claims by private mover/contractor Avner Amadi; AG Rubinstein closed both files (Sept 2000) despite State Attorney/police recommendations, citing evidentiary standards and issuing a critical public report.
-  3. **Bibitours (2011–2016) & Residences Affairs:** Investigations into privately funded overseas flights (1999–2008) ended in May 2016 without criminal prosecution by AG Mandelblit (citing elapsed time and insufficient criminal-grade proof), while the PM Residences affair ("Bottles/Meals") resulted in a 2019 plea bargain convicting Sara Netanyahu of exploiting a mistake without fraud (`ניצול מכוון של טעות הזולת`, no moral turpitude) with zero charges against Benjamin Netanyahu.
-- **Cannot Establish:** Legal wrongdoing by Netanyahu in closed files, where formal AG decisions remain binding non-prosecution records.
+- **סוג:** ריכוז כרונולוגי והיסטוריה משפטית מוצלבת
+- **רמת מהימנות (Tier):** 2 / 3
+- **גורם מפרסם:** "זמן ישראל" (`zman.co.il/68629/`)
+- **תאריך פרסום:** 2019-12-27
+- **תאריך דגימה:** 2026-11-18
+- **גרסה:** סקירה היסטורית
+- **קישור (URL):** https://www.zman.co.il/68629/
+- **עותק מקומי:** אין
+- **מספר תיק / מסמך:** החלטות סגירה היסטוריות של היועמ"שים (1997 בר-און–חברון; 2000 עמדי והמתנות; 2016 ביביטורס)
+- **היקף קריאה:** מלא (פרק הפרשות ההיסטורי)
+- **הערות מהימנות ומקור:** הכתבה מנוסחת במעטפת סאטירית ("הנתניהוז"), ולכן נופתה לחלוטין השפה הפובליציסטית; העובדות והתאריכים הבסיסיים שימשו לעיגון הרצף ההיסטורי בהצלבה מול ההיסטוריה המשפטית הפומבית.
+- **מה המקור מוכיח:** קודם לכתבי האישום של תיקי 1000/2000/4000, שלוש חקירות משטרתיות מרכזיות נגד נתניהו מכהונתו הראשונה ומפסק הזמן הפוליטי הסתיימו בלא כתב אישום נגדו:
+  1. **פרשת בר-און–חברון (1997):** המשטרה המליצה להעמיד לדין את נתניהו בקשר למינוי הקצר של רוני בר-און ליועמ"ש על רקע הצבעת ש"ס על הסכם חברון, ופרקליטת המדינה עדנה ארבל תמכה בהעמדה לדין, אך היועמ"ש אליקים רובינשטיין סגר את התיק (אפריל 1997) מחוסר תשתית מספקת למודעותו האישית של נתניהו לקשר הפלילי — פרשה שהולידה את ועדת שמגר למינוי יועמ"ש.
+  2. **פרשת עמדי והמתנות (1999–2000):** המשטרה תפסה בבית הזוג נתניהו כ־700 מתנות שנתקבלו בתפקיד וחקרה חשבון בסך 440 אלף ש"ח שהגיש הקבלן אבנר עמדי למשרד רה"מ בגין עבודות פרטיות ומעורבות; היועמ"ש רובינשטיין סגר את התיקים (ספטמבר 2000) בניגוד לעמדת המשטרה וחלק מהפרקליטות והסתפק בדו"ח ציבורי חריף.
+  3. **ביביטורס (2011–2016) ופרשיות המעונות (2015–2019):** בדיקת מימון נסיעותיו של נתניהו ומשפחתו לחו"ל (1999–2008) נסגרה בידי היועמ"ש מנדלבליט במאי 2016 (חלוף הזמן והיעדר תשתית פלילית מספקת); בפרשת המעונות הורשעה שרה נתניהו ביוני 2019 בהסדר טיעון בניצול מכוון של טעות הזולת ללא מרמה וללא קלון (פרשת הארוחות), בלא כתב אישום נגד בנימין נתניהו.
+- **מה המקור אינו מוכיח:** אשמה פלילית בתיקים הסגורים, שבהם החלטות הסגירה של היועמ"שים מחייבות.
 
-#### Verbatim Extract
+#### ציטוט מילולי
 
 > "המשטרה המליצה להעמיד את נתניהו לדין [בפרשת בר-און חברון], אבל היועמ"ש ופרקליטת המדינה קבעו, כי אמנם מדובר ב'קשר פלילי להשתלט על משרת היועץ המשפטי לממשלה'... אבל נתניהו לא היה מודע לקשר ביניהם."
 > "פרשת ההובלות או פרשת עמדי הופיעה בספטמבר 1999... החשבון — לא פחות מ-440 אלף שקל... אוקטובר 1999 פרצה פרשת המתנות... אך היועמ"ש דילג על ההעמדה לדין והסתפק בדו"ח ציבורי חריף."
 > "פרשת ביביטורס... במימון נסיעותיו ונסיעות בני משפחתו לחו"ל... הסתיימה בסגירת התיק, בין השאר בשל חלוף הזמן הרב." (זמן ישראל, 27.12.2019)
 
-#### Analytical Note
+#### הערה אנליטית
 
-This 30-year arc (1997–2026) demonstrates two persistent structural features of "Netanyahu investigations": (1) recurring friction between Police/State Attorney investigators favoring prosecution and Attorneys General declining borderline charges (Rubinstein in 1997/2000, Mandelblit in Bibitours/Stock/3000/bribery-in-1000-2000), and (2) recurring patterns involving benefactor-funded travel/hospitality and inner-circle insulation from formal criminal liability.
+מבט של 30 שנה (1997–2026) חושף שתי תבניות קבועות: (1) פער חוזר בין המלצות משטרה/פרקליטות לבין רף ההכרעה הזהיר יותר של היועצים המשפטיים לממשלה (רובינשטיין ב־1997 ו־2000; מנדלבליט בביביטורס, בתיק המניות, בתיק 3000 ובדחיית סעיפי השוחד בתיקי 1000 ו־2000), ו־(2) ממשק מתמשך בין אירוח/מתנות של בעלי הון לבין חסינות פלילית חלקית של לשכת רה"מ.
 
-#### Follow-Up Leads
+#### כיווני המשך
 
-- [ ] Retrieve 1997 AG Rubinstein Bar-On–Hebron closure report and Sept 2000 Amadi public report from Justice Ministry archives for primary Tier 1 archival verification.
+- [ ] לאחזר מארכיוני משרד המשפטים את נוסח הדו"ח של היועמ"ש רובינשטיין בפרשת בר-און–חברון (1997) ובפרשת עמדי והמתנות (ספטמבר 2000) לצורך עיגון Tier 1 מלא.
 
 ---
 
-## Visual Artifacts
+## ממצאים חזותיים ומסמכים מקומיים
 
 ### V001 - 2026-11-18_hcj_bagatz-3056-20-coi-order.pdf
 
-- **Source:** S005 (`https://img.haarets.co.il/bs/00000187-d7b0-d9b4-abaf-ffbe198a0000/a8/a7/99261ec948a1aadca43941f216ba/bagatz.pdf`)
-- **Artifact Type:** primary court order scan / signed PDF (5 pages)
-- **Issue Date:** 2023-05-01
-- **Captured:** 2026-11-18
-- **Local Path:** `assets/2026-11-18_hcj_bagatz-3056-20-coi-order.pdf`
-- **Issuing Authority:** Supreme Court of Israel sitting as High Court of Justice (`בית המשפט העליון בשבתו כבית משפט גבוה לצדק`) — Chief Justice Hayut, Deputy President Vogelman, Justice Amit
-- **Legend/Axes:** Not applicable (5-page numbered judicial decision, internal ref `20030560_V54.docx`, docket `בג"ץ 3056/20`)
-- **Extraction:**
-  - Page 1: Caption listing Petitioner (*Movement for Quality Government in Israel*) vs. Respondents 1–4 (AG, Prime Minister, Knesset, Yoram Yaacobi et al.) on a March 26, 2023 Contempt of Court motion regarding `בג"ץ 3056/20` (25.3.2021).
-  - Page 2 (§§2–3): Records AG Baharav-Miara's 17.1.2023 and 1.2.2023 letters barring Netanyahu from judicial-overhaul involvement, Netanyahu's 23.3.2023 speech (*"אני נכנס לאירוע"*), and AG's 24.3.2023 breach notice citing both `בג"ץ 3056/20` and `בג"ץ 2592/20` (6.5.2020).
-  - Pages 3–5 (§§5–10): Summarizes PM defense (MK immunity §1(a), lack of operative contempt order, "doctrine of necessity" `כלל הצורך`), AG position (procedural unsuitability of contempt alongside binding substantive obligation), and Court holding dismissing contempt procedurally (§8) while reaffirming (§9) that *"חוות דעתה של היועצת המשפטית לממשלה מחייבת, כל עוד לא קבע בית המשפט אחרת"*.
-- **Distortion/Integrity Audit:** Authentic unedited 5-page Supreme Court PDF mirrored via Haaretz archive (identical internal filename `20030560_V54.docx` and `supreme.court.gov.il` footer on page 5); no missing pages or redactions.
-- **Primary Corroboration:** Self-authenticating court PDF (`20030560_V54.docx`), corroborated by `בג"ץ 3618/23` and `בג"ץ 2854/24` citations in official search records.
-- **Interpretation:** Proves both why Netanyahu avoided personal contempt sanctions during the 2023 judicial overhaul *and* why the HCJ simultaneously cemented AG COI authority—setting up the direct collision in 2025–2026 over AG separation legislation, Qatargate/Shin Bet firings (S008), and 26th Knesset repeals.
+- **מקור:** S005 (`https://img.haarets.co.il/bs/00000187-d7b0-d9b4-abaf-ffbe198a0000/a8/a7/99261ec948a1aadca43941f216ba/bagatz.pdf`)
+- **סוג ממצא:** קובץ PDF מקורי של החלטה שיפוטית (5 עמודים)
+- **תאריך הנפקה:** 2023-05-01
+- **תאריך דגימה:** 2026-11-18
+- **נתיב מקומי:** `assets/2026-11-18_hcj_bagatz-3056-20-coi-order.pdf`
+- **רשות מנפיקה:** בית המשפט העליון בשבתו כבית משפט גבוה לצדק — הנשיאה א' חיות, המשנה לנשיאה ע' פוגלמן, השופט י' עמית
+- **מקרא / צירים:** לא רלוונטי (החלטה ממוספרת בת 5 עמודים, סימוכין `20030560_V54.docx`, `בג"ץ 3056/20`)
+- **חילוץ תוכן:**
+  - עמ' 1: כותרת המבקשת (התנועה למען איכות השלטון) נגד המשיבים 1–4 (היועמ"שית, רה"מ, הכנסת, יורם יעקובי ואח') בבקשה לפי פקודת ביזיון בית המשפט מיום 26.3.2023 בעניין פסק הדין ב`בג"ץ 3056/20` (25.3.2021).
+  - עמ' 2 (סעיפים 2–3): מתעד את מכתבי היועמ"שית מ־17.1.2023 ומ־1.2.2023 האוסרים על נתניהו מעורבות ברפורמה המשפטית, את נאום 23.3.2023 (*"אני נכנס לאירוע"*) ואת מכתב ההפרה של היועמ"שית מ־24.3.2023 המאוזכר גם מול `בג"ץ 2592/20` (6.5.2020).
+  - עמ' 3–5 (סעיפים 5–10): מפרט את טענות נתניהו (חסינות ח"כ סעיף 1(א), היעדר צו אופרטיבי, "כלל הצורך"), עמדת היועמ"שית (דחיית הליך הביזיון לצד שימור חובת הציות המהותית), והכרעת בית המשפט הדוחה את הבקשה דיונית (סעיף 8) אך מבהירה מפורשות (סעיף 9) כי *"חוות דעתה של היועצת המשפטית לממשלה מחייבת, כל עוד לא קבע בית המשפט אחרת"*.
+- **ביקורת אמינות ושלמות:** קובץ PDF שלם בן 5 עמודים הכולל מספר מסמך פנימי `20030560_V54.docx` וחותמת תחתית של `supreme.court.gov.il`, ללא השמטות או עריכות.
+- **הצלבה ראשונית:** מסמך מאמת עצמאי (`20030560_V54.docx`), מאומת במקביל בהפניות שב`בג"ץ 3618/23` וב`בג"ץ 2854/24`.
+- **פרשנות:** מסביר מדוע נתניהו לא חויב בסנקציית ביזיון אישית במהלך הרפורמה ב־2023, ובה בעת כיצד ביצר בג"ץ את מעמדה המחייב של היועמ"שית — קו שהוביל ישירות להתנגשות 2025–2026 סביב חוק פיצול היועמ"ש, פיטורי רונן בר (S008) והצעות הביטול בכנסת ה־26.
